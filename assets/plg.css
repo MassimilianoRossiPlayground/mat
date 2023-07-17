@@ -7,3 +7,7 @@ search-popdown.search-popdown.menu__item.menu__item--icon {
 svg.icon.icon-shopping-bag {
     color: #fff;
 }
+.navlink--toplevel>.navtext:before, .grandparent .navlink--child>.navtext:before,
+.navlink--toplevel>.navtext:after, .grandparent .navlink--child>.navtext:after {
+    background: #fff !important;
+}
