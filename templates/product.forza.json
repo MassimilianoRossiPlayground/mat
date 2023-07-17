@@ -66,12 +66,14 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "padding_bottom": 20
           }
         },
         "inventory_countdown": {
           "type": "inventory_countdown",
+          "disabled": true,
           "settings": {
             "max_inventory": 10,
             "hide_inventory_count": true,
@@ -90,6 +92,7 @@
         },
         "7ddd2db6-1d92-43ee-a7d9-e786662f9ced": {
           "type": "icon",
+          "disabled": true,
           "settings": {
             "icon_name": "eco-friendly",
             "icon_color": "",
@@ -104,6 +107,7 @@
         },
         "product_accordions": {
           "type": "product_accordions",
+          "disabled": true,
           "settings": {
             "accordion_heading_1": "Materials and specs",
             "accordion_text_1": "<p>Use this accordion to add info such as Materials, Sizing, Features, Shipping and Returns policies<\/p>",
@@ -138,6 +142,7 @@
         },
         "upsell": {
           "type": "upsell",
+          "disabled": true,
           "settings": {
             "product_list": [
 
@@ -157,11 +162,11 @@
         "upsell"
       ],
       "settings": {
-        "product_sticky_enable": true,
-        "image_layout": "grid",
-        "image_width": "large",
+        "product_sticky_enable": false,
+        "image_layout": "stacked",
+        "image_width": "standard",
         "product_image_aspect_ratio": true,
-        "enable_zoom": true,
+        "enable_zoom": false,
         "enable_video_looping": false,
         "bg_color": "",
         "width": "wrapper",
