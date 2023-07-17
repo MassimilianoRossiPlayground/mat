@@ -87,10 +87,9 @@
     h1, h2, h3, h4, h5, h6 {
       font-family: "Programme-Bold";
     }
-    a.navlink.navlink--toplevel {
-      color: #fff;
-    }
   {% endstyle %}
+
+  {{- 'plg.css' | asset_url | stylesheet_tag -}}
 
   {%- comment -%}{{- 'theme.dev.css' | asset_url | stylesheet_tag -}}{%- endcomment -%}
 
