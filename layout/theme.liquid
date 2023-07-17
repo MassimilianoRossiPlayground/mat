@@ -78,6 +78,17 @@
   {%- comment -%} CSS {%- endcomment -%}
   {{- 'theme.css' | asset_url | stylesheet_tag -}}
 
+  {% style %}
+    @font-face {
+      font-family: "Programme-Bold";
+      src: url("Programme-Bold.woff2") format("woff2"),
+          url("Programme-Bold.woff") format("woff");
+    }
+    h1, h2, h3, h4, h5, h6 {
+      font-family: "Programme-Bold";
+    }
+  {% endstyle %}
+
   {%- comment -%}{{- 'theme.dev.css' | asset_url | stylesheet_tag -}}{%- endcomment -%}
 
   {%- comment -%}
