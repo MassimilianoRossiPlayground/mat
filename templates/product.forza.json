@@ -174,17 +174,6 @@
         "padding_bottom": 60
       }
     },
-    "related": {
-      "type": "related-products",
-      "settings": {
-        "limit": 4,
-        "product_recommendations_heading": "You May Also Like",
-        "bg_color": "",
-        "width": "wrapper--full-padded",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "b3a6b747-09ac-44b5-a818-d8873a2c6316": {
       "type": "section-text",
       "blocks": {
@@ -229,7 +218,7 @@
         "bg_color_secondary": false,
         "text_color": "text-light",
         "width": "wrapper--narrow",
-        "padding_top": 200,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -533,17 +522,28 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "related": {
+      "type": "related-products",
+      "settings": {
+        "limit": 4,
+        "product_recommendations_heading": "You May Also Like",
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
     "0c8748de-69c5-48bf-92a1-6a856f9579de",
     "main",
-    "related",
     "b3a6b747-09ac-44b5-a818-d8873a2c6316",
     "162a4066-6792-4a0c-8f60-ccbf3360c5b9",
     "9e20263c-76ed-4135-b078-cb3a85e38be6",
     "1ebb5a05-7069-460a-a043-63d41c7da96a",
     "16206330-83fc-4382-b04f-469ed6fd2fbe",
-    "028653f2-4c83-4a87-807e-76b006e9ed45"
+    "028653f2-4c83-4a87-807e-76b006e9ed45",
+    "related"
   ]
 }
