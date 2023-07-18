@@ -58,8 +58,8 @@
         "title": {
           "type": "title",
           "settings": {
-            "subheading": "breadcrumbs",
-            "show_rating": true,
+            "subheading": "none",
+            "show_rating": false,
             "show_rating_count": false,
             "padding_bottom": 20
           }
@@ -206,7 +206,7 @@
             "text": "<p>COME FUNZIONA?<\/p>",
             "size": 100,
             "heading_highlight_type": "italics",
-            "highlight_color": "#D43747"
+            "highlight_color": "#d43747"
           }
         }
       },
@@ -323,7 +323,7 @@
             "text": "<p>UNISCITI A NOI<\/p>",
             "size": 180,
             "heading_highlight_type": "italics",
-            "highlight_color": "#D43747"
+            "highlight_color": "#d43747"
           }
         },
         "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-2": {
@@ -376,7 +376,7 @@
             "text": "<p>ALTRI PROGRAMMI<\/p>",
             "size": 100,
             "heading_highlight_type": "italics",
-            "highlight_color": "#D43747"
+            "highlight_color": "#d43747"
           }
         }
       },
