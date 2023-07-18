@@ -404,7 +404,7 @@
         "heading": "CHI SIAMO",
         "description": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas.<\/p>",
         "heading_size": 140,
-        "red_text": "Lorem ipsum",
+        "red_text": "",
         "button_text": "Chi siamo",
         "button_link": "",
         "button_color": "btn--primary",
