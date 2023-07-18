@@ -406,6 +406,23 @@
     "028653f2-4c83-4a87-807e-76b006e9ed45": {
       "type": "section-grid",
       "blocks": {
+        "2ddb254f-37f1-48a6-84a0-3cb403e76b49": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_8c9f6865-818a-409c-b999-63c6bebd0cfc.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "FORZA",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
         "template--19946930962728__028653f2-4c83-4a87-807e-76b006e9ed45-1689683776b0acc7e2-0": {
           "type": "image",
           "settings": {
@@ -448,7 +465,41 @@
             "overlay_opacity": 10,
             "text_position": "center",
             "subheading": "",
-            "title": "FLESSIBILITÀ E MOBILIT",
+            "title": "KETTLEBELL",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "6714daee-2464-46ae-80a7-5758339240c7": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_8c9f6865-818a-409c-b999-63c6bebd0cfc.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "CORPO LIBERO",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "478c65a3-4396-4a3a-93c2-5646a4313b08": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_8c9f6865-818a-409c-b999-63c6bebd0cfc.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "FONDAMENTALI",
             "text": "Add more info or delete this text",
             "button_1_text": "ACQUISTA ORA",
             "button_1_link": "",
@@ -459,9 +510,12 @@
         }
       },
       "block_order": [
+        "2ddb254f-37f1-48a6-84a0-3cb403e76b49",
         "template--19946930962728__028653f2-4c83-4a87-807e-76b006e9ed45-1689683776b0acc7e2-0",
         "a28ba560-9743-424a-bd74-d8125c3ac5c3",
-        "f45748b5-5eb3-42df-9417-9ed36b989362"
+        "f45748b5-5eb3-42df-9417-9ed36b989362",
+        "6714daee-2464-46ae-80a7-5758339240c7",
+        "478c65a3-4396-4a3a-93c2-5646a4313b08"
       ],
       "settings": {
         "height": "450",
