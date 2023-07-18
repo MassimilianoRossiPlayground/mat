@@ -16,7 +16,7 @@
             "text": "<p>FORZA<\/p>",
             "size": 180,
             "heading_highlight_type": "italics",
-            "highlight_color": "#D43747"
+            "highlight_color": "#d43747"
           }
         },
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3": {
@@ -58,8 +58,8 @@
         "title": {
           "type": "title",
           "settings": {
-            "subheading": "breadcrumbs",
-            "show_rating": true,
+            "subheading": "none",
+            "show_rating": false,
             "show_rating_count": false,
             "padding_bottom": 20
           }
@@ -174,6 +174,355 @@
         "padding_bottom": 60
       }
     },
+    "b3a6b747-09ac-44b5-a818-d8873a2c6316": {
+      "type": "section-text",
+      "blocks": {
+        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas. Urna sed molestie nunc felis accumsan pellentesque aliquam massa. Lectus pretium cursus condimentum sit consectetur scelerisque ultricies in.<\/p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "162a4066-6792-4a0c-8f60-ccbf3360c5b9": {
+      "type": "section-text",
+      "blocks": {
+        "template--19946930962728__162a4066-6792-4a0c-8f60-ccbf3360c5b9-168968349248a3dbdb-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>COME FUNZIONA?<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__162a4066-6792-4a0c-8f60-ccbf3360c5b9-168968349248a3dbdb-1"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "9e20263c-76ed-4135-b078-cb3a85e38be6": {
+      "type": "section-columns",
+      "blocks": {
+        "template--19946930962728__9e20263c-76ed-4135-b078-cb3a85e38be6-16896836090868c9a8-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
+            "button_text": "LOREM IPSUM",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "b721955a-0214-4345-a739-6b4ac25982a9": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
+            "button_text": "LOREM IPSUM",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "d4acfe14-3ff1-4ab8-a58a-1d87f3e5dd98": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
+            "button_text": "LOREM IPSUM",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "d2c6b77a-19bc-49e2-b791-c8d9225d5b7d": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
+            "button_text": "LOREM IPSUM",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__9e20263c-76ed-4135-b078-cb3a85e38be6-16896836090868c9a8-0",
+        "b721955a-0214-4345-a739-6b4ac25982a9",
+        "d4acfe14-3ff1-4ab8-a58a-1d87f3e5dd98",
+        "d2c6b77a-19bc-49e2-b791-c8d9225d5b7d"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 4,
+        "equalize_height": true,
+        "image_aspect_ratio": 0.8,
+        "show_images": true,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "1ebb5a05-7069-460a-a043-63d41c7da96a": {
+      "type": "section-banner-image",
+      "blocks": {
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Welcome to<\/p>",
+            "size": 100
+          }
+        },
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>UNISCITI A NOI<\/p>",
+            "size": 180,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        },
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand, describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "size": 100
+          }
+        },
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-3": {
+          "type": "button",
+          "settings": {
+            "button_1_text": "Acquista ora",
+            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_color": "btn--secondary",
+            "button_1_style": "btn--solid",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-0",
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-1",
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-2",
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-3"
+      ],
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "image": "shopify:\/\/shop_images\/BG_1.jpg",
+        "overlay_opacity": 10,
+        "enable_zoom_animation": true,
+        "text_width": "normal",
+        "text_position": "center",
+        "text_color": "text-light"
+      }
+    },
+    "16206330-83fc-4382-b04f-469ed6fd2fbe": {
+      "type": "section-text",
+      "blocks": {
+        "dcf373e6-8a03-4285-a120-04409f87906a": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>ALTRI PROGRAMMI<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        }
+      },
+      "block_order": [
+        "dcf373e6-8a03-4285-a120-04409f87906a"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
+    "028653f2-4c83-4a87-807e-76b006e9ed45": {
+      "type": "section-grid",
+      "blocks": {
+        "2ddb254f-37f1-48a6-84a0-3cb403e76b49": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/BG_Hero.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "FORZA",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "template--19946930962728__028653f2-4c83-4a87-807e-76b006e9ed45-1689683776b0acc7e2-0": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_8c9f6865-818a-409c-b999-63c6bebd0cfc.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "CAPACITÀ AEROBICA",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "a28ba560-9743-424a-bd74-d8125c3ac5c3": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_1.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "FLESSIBILITÀ E MOBILIT",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "f45748b5-5eb3-42df-9417-9ed36b989362": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_c79f5f96-c82c-42c8-b2f7-32c3121b12a9.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "KETTLEBELL",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "6714daee-2464-46ae-80a7-5758339240c7": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_2.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "CORPO LIBERO",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "478c65a3-4396-4a3a-93c2-5646a4313b08": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_3.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "FONDAMENTALI",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "2ddb254f-37f1-48a6-84a0-3cb403e76b49",
+        "template--19946930962728__028653f2-4c83-4a87-807e-76b006e9ed45-1689683776b0acc7e2-0",
+        "a28ba560-9743-424a-bd74-d8125c3ac5c3",
+        "f45748b5-5eb3-42df-9417-9ed36b989362",
+        "6714daee-2464-46ae-80a7-5758339240c7",
+        "478c65a3-4396-4a3a-93c2-5646a4313b08"
+      ],
+      "settings": {
+        "height": "450",
+        "heading_size": 130,
+        "button_1_color": "btn--primary",
+        "button_1_style": "btn--solid",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "related": {
       "type": "related-products",
       "settings": {
@@ -189,6 +538,12 @@
   "order": [
     "0c8748de-69c5-48bf-92a1-6a856f9579de",
     "main",
+    "b3a6b747-09ac-44b5-a818-d8873a2c6316",
+    "162a4066-6792-4a0c-8f60-ccbf3360c5b9",
+    "9e20263c-76ed-4135-b078-cb3a85e38be6",
+    "1ebb5a05-7069-460a-a043-63d41c7da96a",
+    "16206330-83fc-4382-b04f-469ed6fd2fbe",
+    "028653f2-4c83-4a87-807e-76b006e9ed45",
     "related"
   ]
 }
