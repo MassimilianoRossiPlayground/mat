@@ -250,7 +250,13 @@
         {%- endif -%}
 
         {%- if section.settings.sup_title != blank -%}
-          <div class="sup-title">{{ section.settings.sup_title }}</div>
+          <div class="sup-title" 
+            {% if animations_enabled %}
+              data-aos="fade-up"
+              data-aos-delay="{{ animation_delay }}"
+              data-aos-anchor="{{ animation_anchor }}"
+              {%- assign animation_delay = animation_delay | plus: 150 -%}
+            {% endif %}>{{ section.settings.sup_title }}</div>
         {%- endif -%}
 
         {%- if heading != blank -%}
