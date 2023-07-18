@@ -280,6 +280,10 @@
           </div>
         {%- endif -%}
 
+        {%- if section.settings.red_text -%}
+          <div class="red-text">{{ section.settings.red_text }}</div>
+        {%- endif -%}
+
         {%- if section.settings.image_under_text -%}
           <img class="image-under-text" src="{{ section.settings.image_under_text | img_url: "master" }}" alt="mat">
         {%- endif -%}
@@ -405,6 +409,12 @@
       "max": 200,
       "step": 10,
       "unit": "%"
+    },
+    {
+      "type": "textarea",
+      "id": "red_text",
+      "label": "Red Text",
+      "default": "Lorem ipsum"
     },
     {
       "type": "image_picker",
@@ -537,5 +547,9 @@
 .image-under-text {
   margin: 40px 0;
   display: block;
+}
+.red-text {
+  color: #C70102;
+  font-weight: 600;
 }
 {% endstyle %}
