@@ -81,7 +81,7 @@
         "41c083ce-1c20-4c62-baa1-e2f756237853": {
           "type": "text",
           "settings": {
-            "text": "<p>MORE THAN A FITNESS<\/p>",
+            "text": "<p><strong>MORE THAN A FITNESS<\/strong><\/p>",
             "icon_name": "none",
             "icon_color": "#000000",
             "icon_width": 25,
@@ -92,7 +92,7 @@
         "186511e0-df90-4b17-ba87-ec4828f912bd": {
           "type": "text",
           "settings": {
-            "text": "<p>-<\/p>",
+            "text": "<p><strong>-<\/strong><\/p>",
             "icon_name": "none",
             "icon_color": "#000000",
             "icon_width": 25,
@@ -112,7 +112,7 @@
         "color": "#ffffff",
         "marquee_speed": 50,
         "slider_speed": 7,
-        "text_size": 150,
+        "text_size": 100,
         "message_spacing": 5,
         "padding_top": 0,
         "padding_bottom": 0
