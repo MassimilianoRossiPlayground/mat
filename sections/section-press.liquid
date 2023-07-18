@@ -108,7 +108,14 @@
                       <span class="press__quote-inner" style="{{ quotes_styles }}">“</span>
                     </span>
                   {%- endif -%}
-                  {%- if link != blank and has_nested_links == false -%}
+
+                  {{- text -}}
+
+                  {%- if link != blank -%}
+                    <a href="{{ link }}" class="btn btn--solid btn--medium btn--primary">Scopri di più</a>
+                  {%- endif -%}
+
+                  {% comment %} {%- if link != blank and has_nested_links == false -%}
                     <a href="{{ link }}" aria-label="{{ 'homepage.onboarding.press.read_more' | t }}"{% if forloop.index > 1 %} tabindex="-1"{% endif %}>{{ text }}</a>
                   {%- elsif link != blank and has_nested_links -%}
                     {{- text -}}
@@ -118,7 +125,8 @@
                     </a>
                   {%- else -%}
                     {{- text -}}
-                  {%- endif -%}
+                  {%- endif -%} {% endcomment %}
+
                   {%- if show_quotations -%}
                     <span class="press__quote press__quote--close">
                       <span class="press__quote-inner" style="{{ quotes_styles }}">”</span>
