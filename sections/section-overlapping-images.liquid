@@ -281,7 +281,7 @@
         {%- endif -%}
 
         {%- if section.settings.image_under_text -%}
-          <img class="image-under-text" src="{{ section.settings.image_under_text | img_url = "master"}}" alt="mat">
+          <img class="image-under-text" src="{{ section.settings.image_under_text | img_url: "master" }}" alt="mat">
         {%- endif -%}
 
         {%- if button_text != blank -%}
