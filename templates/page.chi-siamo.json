@@ -1,1 +1,453 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":false,"bg_color_secondary":false,"padding_top":100,"padding_bottom":100}},"523b43e6-db34-466d-9090-704a3b8ae760":{"type":"section-banner-image","blocks":{"template--19750317359400__523b43e6-db34-466d-9090-704a3b8ae760-168856619626a8e0de-1":{"type":"heading","settings":{"text":"<p>CHI SIAMO<\/p>","size":180,"heading_highlight_type":"italics","highlight_color":"#d43747"}}},"block_order":["template--19750317359400__523b43e6-db34-466d-9090-704a3b8ae760-168856619626a8e0de-1"],"settings":{"height":"full-height","enable_mobile_height":false,"mobile_height":"four-fifty-height-mobile","image":"shopify:\/\/shop_images\/BG_Hero_fb71cdeb-99ae-44fc-b9fa-4961fc1f3b0c.jpg","overlay_opacity":10,"enable_zoom_animation":true,"text_width":"normal","text_position":"center","text_color":"text-light"}},"70d0eb6b-6142-4ef0-a5e9-86f6550ac6f0":{"type":"section-text","blocks":{"63751c8c-57b6-4e0f-9e68-0e52d04adfb9":{"type":"subheading","settings":{"text":"<p><strong>IL METODO<\/strong><\/p>","size":200,"margin_bottom":16}},"template--19733715058984__70d0eb6b-6142-4ef0-a5e9-86f6550ac6f0-16884838561c5ae39b-0":{"type":"subheading","settings":{"text":"<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas. Urna sed molestie nunc felis accumsan pellentesque aliquam massa. Lectus pretium cursus condimentum sit consectetur scelerisque ultricies in.<\/p>","size":100,"margin_bottom":16}}},"block_order":["63751c8c-57b6-4e0f-9e68-0e52d04adfb9","template--19733715058984__70d0eb6b-6142-4ef0-a5e9-86f6550ac6f0-16884838561c5ae39b-0"],"settings":{"text_position":"center","bg_color_secondary":false,"text_color":"text-light","width":"wrapper--narrow","padding_top":100,"padding_bottom":100}},"667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f":{"type":"section-image-accordions","blocks":{"template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Rectangle_4.jpg","image_mobile":"shopify:\/\/shop_images\/Rectangle_4_7be68202-bfd1-4115-bba7-894b7b8c13db.jpg","overlay_opacity":10,"text_width":"wide","text_position":"left","text_color":"text-light","title":"STEP 01","text":"Lorem ipsum dolor sit amet consectetur. \nNibh dictumst nisl sit tortor nibh. \nAliquam cras in.","button_1_text":"","button_1_link":"","button_1_color":"btn--white","button_1_style":"btn--solid-border","button_1_size":"btn--small","button_2_text":"","button_2_link":"","button_2_color":"btn--black","button_2_style":"btn--solid","button_2_size":"btn--small"}},"template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/BG_Hero_fb71cdeb-99ae-44fc-b9fa-4961fc1f3b0c.jpg","overlay_opacity":10,"text_width":"wide","text_position":"left","text_color":"text-light","title":"STEP 02","text":"This text helps you provide some more detail to the title above.","button_1_text":"","button_1_link":"","button_1_color":"btn--white","button_1_style":"btn--solid-border","button_1_size":"btn--small","button_2_text":"","button_2_link":"","button_2_color":"btn--black","button_2_style":"btn--solid","button_2_size":"btn--small"}},"template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Rectangle_10_4.jpg","overlay_opacity":10,"text_width":"wide","text_position":"left","text_color":"text-light","title":"STEP 03","text":"This text helps you provide some more detail to the title above.","button_1_text":"","button_1_link":"","button_1_color":"btn--white","button_1_style":"btn--solid-border","button_1_size":"btn--small","button_2_text":"","button_2_link":"","button_2_color":"btn--black","button_2_style":"btn--solid","button_2_size":"btn--small"}},"template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/BG_Hero.jpg","overlay_opacity":10,"text_width":"wide","text_position":"left","text_color":"text-light","title":"STEP 04","text":"This text helps you provide some more detail to the title above.","button_1_text":"","button_1_link":"","button_1_color":"btn--white","button_1_style":"btn--solid-border","button_1_size":"btn--small","button_2_text":"","button_2_link":"","button_2_color":"btn--black","button_2_style":"btn--solid","button_2_size":"btn--small"}}},"block_order":["template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-0","template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-1","template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-2","template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-3"],"settings":{"accordion_height":"six-fifty-height","enable_mobile_height":false,"mobile_section_height":"five-fifty-height-mobile","heading_size":100,"width":"wrapper--full","padding_top":0,"padding_bottom":0}},"0567b5ca-5a5b-4acd-8d1f-61e474b56545":{"type":"section-text","blocks":{"template--19829894807848__0567b5ca-5a5b-4acd-8d1f-61e474b56545-1688985110044e7893-3":{"type":"button","settings":{"button_text":"Unisciti a noi","button_link":"","button_color":"btn--primary","button_style":"btn--solid","button_size":"btn--small"}}},"block_order":["template--19829894807848__0567b5ca-5a5b-4acd-8d1f-61e474b56545-1688985110044e7893-3"],"settings":{"text_position":"center","bg_color_secondary":false,"text_color":"text-dark","width":"wrapper--narrow","padding_top":50,"padding_bottom":100}},"f9129ff6-49cf-4feb-9a30-2b1375c20c3b":{"type":"section-text","blocks":{"b5105e0c-546b-4dca-b7f3-56bf27ad9904":{"type":"heading","settings":{"text":"<p>I NOSTRI COACH<\/p>","size":100,"heading_highlight_type":"italics","highlight_color":"#d43747"}}},"block_order":["b5105e0c-546b-4dca-b7f3-56bf27ad9904"],"settings":{"text_position":"center","bg_color_secondary":false,"text_color":"text-light","width":"wrapper--narrow","padding_top":0,"padding_bottom":0}},"b919e20f-6715-4f73-a6c0-f8cddf920932":{"type":"section-custom-content","blocks":{"template--19829894807848__b919e20f-6715-4f73-a6c0-f8cddf920932-1688985194783fdcca-0":{"type":"image","settings":{"text_position":"middle-center","image":"shopify:\/\/shop_images\/Rectangle_20.jpg","overlay_opacity":10,"text_color":"text-light","title":"","heading_size":100,"text":"","button_text":"","button_link":"","button_color":"btn--white","button_style":"btn--solid-border","button_size":"btn--small"}},"template--19829894807848__b919e20f-6715-4f73-a6c0-f8cddf920932-1688985194783fdcca-1":{"type":"text","settings":{"text_position":"left","top_image_width":100,"text_color":"text-light","subheading":"Lorem ipsum","title":"JOHN DOE","heading_size":100,"text":"<p>Lorem ipsum dolor sit amet consectetur. Ullamcorper convallis ut posuere porttitor ut nulla. Purus vitae enim ac suspendisse odio dolor. Imperdiet massa arcu ac laoreet nulla.<\/p>","text_size":100,"button_text":"","button_link":"","button_color":"btn--black","button_style":"btn--solid","button_size":"btn--small","button_2_text":"","button_2_link":"","button_2_color":"btn--white","button_2_style":"btn--solid-border","button_2_size":"btn--small","bg_color":""}}},"block_order":["template--19829894807848__b919e20f-6715-4f73-a6c0-f8cddf920932-1688985194783fdcca-0","template--19829894807848__b919e20f-6715-4f73-a6c0-f8cddf920932-1688985194783fdcca-1"],"settings":{"height":"six-fifty-height","bg_color":"","width":"wrapper","add_gutter":false,"padding_top":60,"padding_bottom":60}},"6c4d7f06-2f3b-4fa2-96e1-eb5bbe517686":{"type":"section-custom-content","blocks":{"0a6d8927-81d3-4f96-bb32-063422d19457":{"type":"text","settings":{"text_position":"left","top_image_width":100,"text_color":"text-light","subheading":"Lorem ipsum","title":"JOHN DOE","heading_size":100,"text":"<p>Lorem ipsum dolor sit amet consectetur. Ullamcorper convallis ut posuere porttitor ut nulla. Purus vitae enim ac suspendisse odio dolor. Imperdiet massa arcu ac laoreet nulla.<\/p>","text_size":100,"button_text":"","button_link":"","button_color":"btn--black","button_style":"btn--solid","button_size":"btn--small","button_2_text":"","button_2_link":"","button_2_color":"btn--white","button_2_style":"btn--solid-border","button_2_size":"btn--small","bg_color":""}},"6aa60c90-7c00-42d7-a4f5-93eac5c46b15":{"type":"image","settings":{"text_position":"middle-center","image":"shopify:\/\/shop_images\/Rectangle_21.jpg","overlay_opacity":10,"text_color":"text-light","title":"","heading_size":100,"text":"","button_text":"","button_link":"","button_color":"btn--white","button_style":"btn--solid-border","button_size":"btn--small"}}},"block_order":["0a6d8927-81d3-4f96-bb32-063422d19457","6aa60c90-7c00-42d7-a4f5-93eac5c46b15"],"settings":{"height":"six-fifty-height","bg_color":"","width":"wrapper","add_gutter":false,"padding_top":0,"padding_bottom":60}},"84bd4abd-3af3-4576-a41f-1b7f2e2b704e":{"type":"section-custom-content","blocks":{"be75362f-596a-4798-b987-93e5096d9fb3":{"type":"image","settings":{"text_position":"middle-center","image":"shopify:\/\/shop_images\/Rectangle_20_1.jpg","overlay_opacity":10,"text_color":"text-light","title":"","heading_size":100,"text":"","button_text":"","button_link":"","button_color":"btn--white","button_style":"btn--solid-border","button_size":"btn--small"}},"da39095f-ee15-44c1-9ed4-90c3a14daca2":{"type":"text","settings":{"text_position":"left","top_image_width":100,"text_color":"text-light","subheading":"Lorem ipsum","title":"JOHN DOE","heading_size":100,"text":"<p>Lorem ipsum dolor sit amet consectetur. Ullamcorper convallis ut posuere porttitor ut nulla. Purus vitae enim ac suspendisse odio dolor. Imperdiet massa arcu ac laoreet nulla.<\/p>","text_size":100,"button_text":"","button_link":"","button_color":"btn--black","button_style":"btn--solid","button_size":"btn--small","button_2_text":"","button_2_link":"","button_2_color":"btn--white","button_2_style":"btn--solid-border","button_2_size":"btn--small","bg_color":""}}},"block_order":["be75362f-596a-4798-b987-93e5096d9fb3","da39095f-ee15-44c1-9ed4-90c3a14daca2"],"settings":{"height":"six-fifty-height","bg_color":"","width":"wrapper","add_gutter":false,"padding_top":0,"padding_bottom":100}},"fb17d7e8-acb0-4169-8cac-4677eb7527a4":{"type":"section-overlapping-images","custom_css":[".bg-secondary {background: #ffffff; color: #000000;}",".bg-secondary h2,.bg-secondary p {color: #000000;}"],"settings":{"text_position":"left","text_alignment":"left","images_width":750,"images_offset":60,"image_1":"shopify:\/\/shop_images\/Rectangle_22_b8b231bf-03a7-48bb-b193-a78e8ccb9bba.jpg","image_link_1":"","image_2":"shopify:\/\/shop_images\/Rectangle_23_46e49680-e12d-45e5-be30-e5210b40d515.jpg","image_link_2":"","hide_image_2":false,"heading":"CHI È MATFITNESS","description":"<p><strong>Sono un Ex atleta professionista di sport da combattimento, laureato in Scienze Motorie<\/strong> all’Università di Pavia, seguita da un <strong>approfondimento della Metodologia CrossFit<\/strong>, che mi ha portato a partecipare ai <strong>CrossFit Regionals nel 2012, a conseguire il CrossFit Level 3 e diventare anche un Coach della Scuola di Opex Fitness.<\/strong><br\/><br\/><strong>Il mio Metodo parte dall’analisi degli obiettivi di chi chiede il mio aiuto, e prosegue con l’impostazione di un Piano dettagliato per arrivare a raggiungerli.<\/strong> In Mat Fitness non ci occupiamo solo Fitness, ma anche di Wellness, Abitudini di vita e Alimentari e Nutrizione.<\/p><p><strong>Tutto quello che serve per migliorare il tuo aspetto fisico, la tua performance e la tua salute, lo troverai in Mat Fitness.<\/strong><\/p>","heading_size":100,"button_text":"Prenota il tuo primo appuntamento","button_link":"","button_color":"btn--primary","button_style":"btn--solid","button_size":"btn--small","video_text":"","video_link":"","bg_color_secondary":true,"width":"wrapper--full-padded","padding_top":100,"padding_bottom":100}}},"order":["main","523b43e6-db34-466d-9090-704a3b8ae760","70d0eb6b-6142-4ef0-a5e9-86f6550ac6f0","667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f","0567b5ca-5a5b-4acd-8d1f-61e474b56545","f9129ff6-49cf-4feb-9a30-2b1375c20c3b","b919e20f-6715-4f73-a6c0-f8cddf920932","6c4d7f06-2f3b-4fa2-96e1-eb5bbe517686","84bd4abd-3af3-4576-a41f-1b7f2e2b704e","fb17d7e8-acb0-4169-8cac-4677eb7527a4"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": false,
+        "bg_color_secondary": false,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "523b43e6-db34-466d-9090-704a3b8ae760": {
+      "type": "section-banner-image",
+      "blocks": {
+        "template--19750317359400__523b43e6-db34-466d-9090-704a3b8ae760-168856619626a8e0de-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>CHI SIAMO<\/p>",
+            "size": 180,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        }
+      },
+      "block_order": [
+        "template--19750317359400__523b43e6-db34-466d-9090-704a3b8ae760-168856619626a8e0de-1"
+      ],
+      "settings": {
+        "height": "full-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "image": "shopify:\/\/shop_images\/BG_Hero_fb71cdeb-99ae-44fc-b9fa-4961fc1f3b0c.jpg",
+        "overlay_opacity": 10,
+        "enable_zoom_animation": true,
+        "text_width": "normal",
+        "text_position": "center",
+        "text_color": "text-light"
+      }
+    },
+    "70d0eb6b-6142-4ef0-a5e9-86f6550ac6f0": {
+      "type": "section-text",
+      "blocks": {
+        "63751c8c-57b6-4e0f-9e68-0e52d04adfb9": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p><strong>IL METODO<\/strong><\/p>",
+            "size": 200,
+            "margin_bottom": 16
+          }
+        },
+        "template--19733715058984__70d0eb6b-6142-4ef0-a5e9-86f6550ac6f0-16884838561c5ae39b-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas. Urna sed molestie nunc felis accumsan pellentesque aliquam massa. Lectus pretium cursus condimentum sit consectetur scelerisque ultricies in.<\/p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "63751c8c-57b6-4e0f-9e68-0e52d04adfb9",
+        "template--19733715058984__70d0eb6b-6142-4ef0-a5e9-86f6550ac6f0-16884838561c5ae39b-0"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f": {
+      "type": "section-image-accordions",
+      "blocks": {
+        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_4.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Rectangle_4_7be68202-bfd1-4115-bba7-894b7b8c13db.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "STEP 01",
+            "text": "Lorem ipsum dolor sit amet consectetur. \nNibh dictumst nisl sit tortor nibh. \nAliquam cras in.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BG_Hero_fb71cdeb-99ae-44fc-b9fa-4961fc1f3b0c.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "STEP 02",
+            "text": "This text helps you provide some more detail to the title above.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_10_4.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "STEP 03",
+            "text": "This text helps you provide some more detail to the title above.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BG_Hero.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "STEP 04",
+            "text": "This text helps you provide some more detail to the title above.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-0",
+        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-1",
+        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-2",
+        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-3"
+      ],
+      "settings": {
+        "accordion_height": "six-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_section_height": "five-fifty-height-mobile",
+        "heading_size": 100,
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "0567b5ca-5a5b-4acd-8d1f-61e474b56545": {
+      "type": "section-text",
+      "blocks": {
+        "template--19829894807848__0567b5ca-5a5b-4acd-8d1f-61e474b56545-1688985110044e7893-3": {
+          "type": "button",
+          "settings": {
+            "button_text": "Unisciti a noi",
+            "button_link": "",
+            "button_color": "btn--primary",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--19829894807848__0567b5ca-5a5b-4acd-8d1f-61e474b56545-1688985110044e7893-3"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 50,
+        "padding_bottom": 100
+      }
+    },
+    "f9129ff6-49cf-4feb-9a30-2b1375c20c3b": {
+      "type": "section-text",
+      "blocks": {
+        "b5105e0c-546b-4dca-b7f3-56bf27ad9904": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>I NOSTRI COACH<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        }
+      },
+      "block_order": [
+        "b5105e0c-546b-4dca-b7f3-56bf27ad9904"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b919e20f-6715-4f73-a6c0-f8cddf920932": {
+      "type": "section-custom-content",
+      "blocks": {
+        "template--19829894807848__b919e20f-6715-4f73-a6c0-f8cddf920932-1688985194783fdcca-0": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle-center",
+            "image": "shopify:\/\/shop_images\/Rectangle_20.jpg",
+            "overlay_opacity": 10,
+            "text_color": "text-light",
+            "title": "",
+            "heading_size": 100,
+            "text": "",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        },
+        "template--19829894807848__b919e20f-6715-4f73-a6c0-f8cddf920932-1688985194783fdcca-1": {
+          "type": "text",
+          "settings": {
+            "text_position": "left",
+            "top_image_width": 100,
+            "text_color": "text-light",
+            "subheading": "Lorem ipsum",
+            "title": "JOHN DOE",
+            "heading_size": 100,
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Ullamcorper convallis ut posuere porttitor ut nulla. Purus vitae enim ac suspendisse odio dolor. Imperdiet massa arcu ac laoreet nulla.<\/p>",
+            "text_size": 100,
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--white",
+            "button_2_style": "btn--solid-border",
+            "button_2_size": "btn--small",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19829894807848__b919e20f-6715-4f73-a6c0-f8cddf920932-1688985194783fdcca-0",
+        "template--19829894807848__b919e20f-6715-4f73-a6c0-f8cddf920932-1688985194783fdcca-1"
+      ],
+      "settings": {
+        "height": "four-fifty-height",
+        "bg_color": "",
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "6c4d7f06-2f3b-4fa2-96e1-eb5bbe517686": {
+      "type": "section-custom-content",
+      "blocks": {
+        "0a6d8927-81d3-4f96-bb32-063422d19457": {
+          "type": "text",
+          "settings": {
+            "text_position": "left",
+            "top_image_width": 100,
+            "text_color": "text-light",
+            "subheading": "Lorem ipsum",
+            "title": "JOHN DOE",
+            "heading_size": 100,
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Ullamcorper convallis ut posuere porttitor ut nulla. Purus vitae enim ac suspendisse odio dolor. Imperdiet massa arcu ac laoreet nulla.<\/p>",
+            "text_size": 100,
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--white",
+            "button_2_style": "btn--solid-border",
+            "button_2_size": "btn--small",
+            "bg_color": ""
+          }
+        },
+        "6aa60c90-7c00-42d7-a4f5-93eac5c46b15": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle-center",
+            "image": "shopify:\/\/shop_images\/Rectangle_21.jpg",
+            "overlay_opacity": 10,
+            "text_color": "text-light",
+            "title": "",
+            "heading_size": 100,
+            "text": "",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "0a6d8927-81d3-4f96-bb32-063422d19457",
+        "6aa60c90-7c00-42d7-a4f5-93eac5c46b15"
+      ],
+      "settings": {
+        "height": "four-fifty-height",
+        "bg_color": "",
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "84bd4abd-3af3-4576-a41f-1b7f2e2b704e": {
+      "type": "section-custom-content",
+      "blocks": {
+        "be75362f-596a-4798-b987-93e5096d9fb3": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle-center",
+            "image": "shopify:\/\/shop_images\/Rectangle_20_1.jpg",
+            "overlay_opacity": 10,
+            "text_color": "text-light",
+            "title": "",
+            "heading_size": 100,
+            "text": "",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid-border",
+            "button_size": "btn--small"
+          }
+        },
+        "da39095f-ee15-44c1-9ed4-90c3a14daca2": {
+          "type": "text",
+          "settings": {
+            "text_position": "left",
+            "top_image_width": 100,
+            "text_color": "text-light",
+            "subheading": "Lorem ipsum",
+            "title": "JOHN DOE",
+            "heading_size": 100,
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Ullamcorper convallis ut posuere porttitor ut nulla. Purus vitae enim ac suspendisse odio dolor. Imperdiet massa arcu ac laoreet nulla.<\/p>",
+            "text_size": 100,
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--white",
+            "button_2_style": "btn--solid-border",
+            "button_2_size": "btn--small",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "be75362f-596a-4798-b987-93e5096d9fb3",
+        "da39095f-ee15-44c1-9ed4-90c3a14daca2"
+      ],
+      "settings": {
+        "height": "four-fifty-height",
+        "bg_color": "",
+        "width": "wrapper",
+        "add_gutter": false,
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "fb17d7e8-acb0-4169-8cac-4677eb7527a4": {
+      "type": "section-overlapping-images",
+      "custom_css": [
+        ".bg-secondary {background: #ffffff; color: #000000;}",
+        ".bg-secondary h2,.bg-secondary p {color: #000000;}"
+      ],
+      "settings": {
+        "text_position": "left",
+        "text_alignment": "left",
+        "images_width": 750,
+        "images_offset": 60,
+        "image_1": "shopify:\/\/shop_images\/Rectangle_22_b8b231bf-03a7-48bb-b193-a78e8ccb9bba.jpg",
+        "image_link_1": "",
+        "image_2": "shopify:\/\/shop_images\/Rectangle_23_46e49680-e12d-45e5-be30-e5210b40d515.jpg",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "CHI È MATFITNESS",
+        "description": "<p><strong>Sono un Ex atleta professionista di sport da combattimento, laureato in Scienze Motorie<\/strong> all’Università di Pavia, seguita da un <strong>approfondimento della Metodologia CrossFit<\/strong>, che mi ha portato a partecipare ai <strong>CrossFit Regionals nel 2012, a conseguire il CrossFit Level 3 e diventare anche un Coach della Scuola di Opex Fitness.<\/strong><br\/><br\/><strong>Il mio Metodo parte dall’analisi degli obiettivi di chi chiede il mio aiuto, e prosegue con l’impostazione di un Piano dettagliato per arrivare a raggiungerli.<\/strong> In Mat Fitness non ci occupiamo solo Fitness, ma anche di Wellness, Abitudini di vita e Alimentari e Nutrizione.<\/p><p><strong>Tutto quello che serve per migliorare il tuo aspetto fisico, la tua performance e la tua salute, lo troverai in Mat Fitness.<\/strong><\/p>",
+        "heading_size": 100,
+        "button_text": "Prenota il tuo primo appuntamento",
+        "button_link": "",
+        "button_color": "btn--primary",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "523b43e6-db34-466d-9090-704a3b8ae760",
+    "70d0eb6b-6142-4ef0-a5e9-86f6550ac6f0",
+    "667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f",
+    "0567b5ca-5a5b-4acd-8d1f-61e474b56545",
+    "f9129ff6-49cf-4feb-9a30-2b1375c20c3b",
+    "b919e20f-6715-4f73-a6c0-f8cddf920932",
+    "6c4d7f06-2f3b-4fa2-96e1-eb5bbe517686",
+    "84bd4abd-3af3-4576-a41f-1b7f2e2b704e",
+    "fb17d7e8-acb0-4169-8cac-4677eb7527a4"
+  ]
+}
