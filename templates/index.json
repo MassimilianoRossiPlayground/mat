@@ -121,17 +121,18 @@
     "b5fd5f20-d2f4-4510-997e-b0f5b093ea45": {
       "type": "section-text",
       "blocks": {
-        "template--18960249684264__b5fd5f20-d2f4-4510-997e-b0f5b093ea45-1688477574f13d2dbb-0": {
-          "type": "subheading",
+        "1bbc5096-d7fd-4c1d-9e16-09b041414821": {
+          "type": "heading",
           "settings": {
             "text": "<p>IL METODO<\/p>",
-            "size": 260,
-            "margin_bottom": 16
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#D43747"
           }
         }
       },
       "block_order": [
-        "template--18960249684264__b5fd5f20-d2f4-4510-997e-b0f5b093ea45-1688477574f13d2dbb-0"
+        "1bbc5096-d7fd-4c1d-9e16-09b041414821"
       ],
       "settings": {
         "text_position": "center",
