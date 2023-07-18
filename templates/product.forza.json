@@ -16,7 +16,7 @@
             "text": "<p>FORZA<\/p>",
             "size": 180,
             "heading_highlight_type": "italics",
-            "highlight_color": "#D43747"
+            "highlight_color": "#d43747"
           }
         },
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3": {
@@ -184,11 +184,61 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "b3a6b747-09ac-44b5-a818-d8873a2c6316": {
+      "type": "section-text",
+      "blocks": {
+        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas. Urna sed molestie nunc felis accumsan pellentesque aliquam massa. Lectus pretium cursus condimentum sit consectetur scelerisque ultricies in.<\/p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "162a4066-6792-4a0c-8f60-ccbf3360c5b9": {
+      "type": "section-text",
+      "blocks": {
+        "template--19946930962728__162a4066-6792-4a0c-8f60-ccbf3360c5b9-168968349248a3dbdb-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>COME FUNZIONA?<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#D43747"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__162a4066-6792-4a0c-8f60-ccbf3360c5b9-168968349248a3dbdb-1"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 200,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "0c8748de-69c5-48bf-92a1-6a856f9579de",
     "main",
-    "related"
+    "related",
+    "b3a6b747-09ac-44b5-a818-d8873a2c6316",
+    "162a4066-6792-4a0c-8f60-ccbf3360c5b9"
   ]
 }
