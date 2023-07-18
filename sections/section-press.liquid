@@ -152,22 +152,18 @@
             endunless
           -%}
 
+          {%- unless image == blank -%}
           <div class="press__logos-slide" data-logo-slide data-logo-index="{{ forloop.index0 }}" tabindex="0">
             <div class="press__logo" style="--image-width: {{ image_width }}px; --image-height: {{ image_height }}px;">
-              {%- unless image == blank -%}
                 {%- render 'image',
                   image: image,
                   width: retina_size,
                   widths: image_widths,
                   sizes: 'auto',
                   classes: 'press__logo-image' -%}
-              {%- else -%}
-                <div class="press__logo-image press__logo-image--placeholder placeholder-svg--overlayed" style="width: {{ image_width | append: 'px' }}" data-thumbnail-id="{{ section.id }}-{{ media.id }}">
-                  {{- 'logo' | placeholder_svg_tag: 'placeholder-svg-filled' -}}
-                </div>
-              {%- endunless -%}
+              </div>
             </div>
-          </div>
+          {%- endunless -%}
         {%- endfor -%}
       </div>
     </div>
