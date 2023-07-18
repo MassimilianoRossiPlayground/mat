@@ -112,7 +112,7 @@
                   {{- text -}}
 
                   {%- if link != blank -%}
-                    <a href="{{ link }}" class="btn btn--solid btn--medium btn--primary">Scopri di più</a>
+                    <a class="read-more-btn" href="{{ link }}" class="btn btn--solid btn--medium btn--primary">Scopri di più</a>
                   {%- endif -%}
 
                   {% comment %} {%- if link != blank and has_nested_links == false -%}
@@ -354,3 +354,9 @@
   }
 }
 {% endschema %}
+
+{% style %}
+.read-more-btn {
+  margin: 40px 0;
+}
+{% endstyle %}
