@@ -281,11 +281,24 @@
         {%- endif -%}
 
         {%- if section.settings.red_text -%}
-          <div class="red-text">{{ section.settings.red_text }}</div>
+          <div class="red-text" 
+            {% if animations_enabled %}
+              data-aos="fade-up"
+              data-aos-delay="{{ animation_delay }}"
+              data-aos-anchor="{{ animation_anchor }}"
+              {%- assign animation_delay = animation_delay | plus: 150 -%}
+            {% endif %}>{{ section.settings.red_text }}</div>
         {%- endif -%}
 
         {%- if section.settings.image_under_text -%}
-          <img class="image-under-text" src="{{ section.settings.image_under_text | img_url: "master" }}" alt="mat">
+          <div class="image-under-text" 
+            {% if animations_enabled %}
+              data-aos="fade-up"
+              data-aos-delay="{{ animation_delay }}"
+              data-aos-anchor="{{ animation_anchor }}"
+              {%- assign animation_delay = animation_delay | plus: 150 -%}
+            {% endif %}>
+          <img src="{{ section.settings.image_under_text | img_url: "master" }}" alt="mat">
         {%- endif -%}
 
         {%- if button_text != blank -%}
@@ -544,7 +557,7 @@
 {% endschema %}
 
 {% style %}
-.image-under-text {
+.image-under-text img {
   margin: 40px 0;
   display: block;
 }
