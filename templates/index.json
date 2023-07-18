@@ -1,1 +1,537 @@
-{"sections":{"f65731be-fed8-4ca8-825e-2c8bce9ebe5b":{"type":"section-slideshow","blocks":{"template--18952593899841__f65731be-fed8-4ca8-825e-2c8bce9ebe5b-168312590450cae23f-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/BG_Hero.png","image_mobile":"shopify:\/\/shop_images\/BG_Hero_copia.png","overlay_opacity":10,"text_width":"wide","text_position":"center","text_color":"text-light","subheading":"Lorem Ipsum","title":"MORE THAN\nA FITNESS","text":"Lorem ipsum dolor sit amet consectetur.","button_1_text":"Unisciti a noi","button_1_link":"#","button_1_color":"btn--primary","button_1_style":"btn--solid","button_1_size":"btn--large","button_2_text":"","button_2_link":"","button_2_color":"btn--secondary","button_2_style":"btn--solid","button_2_size":"btn--large","video_text":"","video_link":""}},"60877f54-39c6-422a-a24a-f05f9c38b239":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/BG_Hero.png","image_mobile":"shopify:\/\/shop_images\/BG_Hero_copia.png","overlay_opacity":10,"text_width":"normal","text_position":"center","text_color":"text-light","subheading":"Lorem ipsum","title":"Welcome","text":"Lorem ipsum dolor sit amet consectetur.","button_1_text":"Shop All","button_1_link":"shopify:\/\/collections\/all","button_1_color":"btn--primary","button_1_style":"btn--solid-border","button_1_size":"btn--large","button_2_text":"","button_2_link":"","button_2_color":"btn--black","button_2_style":"btn--solid","button_2_size":"btn--large","video_text":"","video_link":""}}},"block_order":["template--18952593899841__f65731be-fed8-4ca8-825e-2c8bce9ebe5b-168312590450cae23f-0","60877f54-39c6-422a-a24a-f05f9c38b239"],"settings":{"slide_height":"full-height","enable_mobile_height":true,"mobile_slide_height":"full-height-mobile","show_nav_dots":true,"show_nav_arrows":false,"show_arrow_down":false,"autoplay":false,"duration":4,"transition":"fade","enable_zoom_animation":true,"heading_size":180}},"section-marquee":{"type":"section-marquee","blocks":{"41c083ce-1c20-4c62-baa1-e2f756237853":{"type":"text","settings":{"text":"<p>MORE THAN A FITNESS<\/p>","icon_name":"none","icon_color":"#000000","icon_width":25,"target_device_enabled":false,"target_device":"mobile"}},"186511e0-df90-4b17-ba87-ec4828f912bd":{"type":"text","settings":{"text":"<p>-<\/p>","icon_name":"none","icon_color":"#000000","icon_width":25,"target_device_enabled":false,"target_device":"mobile"}}},"block_order":["41c083ce-1c20-4c62-baa1-e2f756237853","186511e0-df90-4b17-ba87-ec4828f912bd"],"settings":{"layout":"marquee","padding":20,"bg_color":"#c70102","color":"#ffffff","marquee_speed":50,"slider_speed":7,"text_size":150,"message_spacing":5,"padding_top":0,"padding_bottom":0}},"b5fd5f20-d2f4-4510-997e-b0f5b093ea45":{"type":"section-text","blocks":{"template--18960249684264__b5fd5f20-d2f4-4510-997e-b0f5b093ea45-1688477574f13d2dbb-0":{"type":"subheading","settings":{"text":"<p>IL METODO<\/p>","size":260,"margin_bottom":16}}},"block_order":["template--18960249684264__b5fd5f20-d2f4-4510-997e-b0f5b093ea45-1688477574f13d2dbb-0"],"settings":{"text_position":"center","bg_color_secondary":false,"text_color":"text-light","width":"wrapper--narrow","padding_top":130,"padding_bottom":60}},"afde9176-b01d-4346-81aa-9d0e98275d83":{"type":"section-image-accordions","blocks":{"template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Rectangle_12.jpg","overlay_opacity":10,"text_width":"wide","text_position":"left","text_color":"text-light","title":"STEP 01","text":"Lorem ipsum dolor sit amet consectetur. \nNibh dictumst nisl sit tortor nibh. \nAliquam cras in.","button_1_text":"","button_1_link":"","button_1_color":"btn--white","button_1_style":"btn--solid-border","button_1_size":"btn--small","button_2_text":"","button_2_link":"","button_2_color":"btn--black","button_2_style":"btn--solid","button_2_size":"btn--small"}},"template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/BG_Hero.png","overlay_opacity":10,"text_width":"wide","text_position":"left","text_color":"text-light","title":"STEP 02","text":"This text helps you provide some more detail to the title above.","button_1_text":"","button_1_link":"","button_1_color":"btn--white","button_1_style":"btn--solid-border","button_1_size":"btn--small","button_2_text":"","button_2_link":"","button_2_color":"btn--black","button_2_style":"btn--solid","button_2_size":"btn--small"}},"template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/iphone-detects-qr-code.jpg","overlay_opacity":10,"text_width":"wide","text_position":"left","text_color":"text-light","title":"STEP 03","text":"This text helps you provide some more detail to the title above.","button_1_text":"","button_1_link":"","button_1_color":"btn--white","button_1_style":"btn--solid-border","button_1_size":"btn--small","button_2_text":"","button_2_link":"","button_2_color":"btn--black","button_2_style":"btn--solid","button_2_size":"btn--small"}},"template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Rectangle_23.jpg","overlay_opacity":10,"text_width":"wide","text_position":"left","text_color":"text-light","title":"STEP 04","text":"This text helps you provide some more detail to the title above.","button_1_text":"","button_1_link":"","button_1_color":"btn--white","button_1_style":"btn--solid-border","button_1_size":"btn--small","button_2_text":"","button_2_link":"","button_2_color":"btn--black","button_2_style":"btn--solid","button_2_size":"btn--small"}}},"block_order":["template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-0","template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-1","template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-2","template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-3"],"settings":{"accordion_height":"six-fifty-height","enable_mobile_height":false,"mobile_section_height":"five-fifty-height-mobile","heading_size":100,"width":"wrapper--full-padded","padding_top":0,"padding_bottom":0}},"76ee0342-dabb-4da7-a033-886f9ca12987":{"type":"section-text","blocks":{"template--18960249684264__76ee0342-dabb-4da7-a033-886f9ca12987-16884735744e7aab02-3":{"type":"button","settings":{"button_text":"Unisciti a noi","button_link":"","button_color":"btn--primary","button_style":"btn--solid","button_size":"btn--small"}}},"block_order":["template--18960249684264__76ee0342-dabb-4da7-a033-886f9ca12987-16884735744e7aab02-3"],"settings":{"text_position":"center","bg_color_secondary":false,"text_color":"text-dark","width":"wrapper--narrow","padding_top":60,"padding_bottom":60}},"71b33943-f4f8-4191-8e31-c68544d1f02e":{"type":"section-columns","blocks":{"template--18960249684264__71b33943-f4f8-4191-8e31-c68544d1f02e-1686669012c70e5a5d-0":{"type":"text_block","settings":{"image":"shopify:\/\/shop_images\/Rectangle_9.jpg","title":"LOREM IPSUM","text":"<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>","button_text":"Learn More","button_link":"","button_color":"btn--black","button_style":"btn--text","button_size":"btn--small","video_link_popup":"","video_link_color":"text-dark"}},"5f8845cd-9019-4a3f-980a-e0851213acde":{"type":"text_block","settings":{"image":"shopify:\/\/shop_images\/Rectangle_9.jpg","title":"LOREM IPSUM","text":"<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>","button_text":"Learn More","button_link":"","button_color":"btn--black","button_style":"btn--text","button_size":"btn--small","video_link_popup":"","video_link_color":"text-dark"}},"c204c6fe-e6bc-48e0-9600-4db149f632f6":{"type":"text_block","settings":{"image":"shopify:\/\/shop_images\/Rectangle_9.jpg","title":"LOREM IPSUM","text":"<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>","button_text":"Learn More","button_link":"","button_color":"btn--black","button_style":"btn--text","button_size":"btn--small","video_link_popup":"","video_link_color":"text-dark"}},"59f410d6-958a-41c4-a6ad-1fa5376c3767":{"type":"text_block","settings":{"image":"shopify:\/\/shop_images\/Rectangle_9.jpg","title":"LOREM IPSUM","text":"<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>","button_text":"Learn More","button_link":"","button_color":"btn--black","button_style":"btn--text","button_size":"btn--small","video_link_popup":"","video_link_color":"text-dark"}}},"block_order":["template--18960249684264__71b33943-f4f8-4191-8e31-c68544d1f02e-1686669012c70e5a5d-0","5f8845cd-9019-4a3f-980a-e0851213acde","c204c6fe-e6bc-48e0-9600-4db149f632f6","59f410d6-958a-41c4-a6ad-1fa5376c3767"],"settings":{"title":"COME FUNZIONA?","align_text":"text-left","columns":4,"equalize_height":true,"image_aspect_ratio":1,"show_images":true,"heading_size":120,"text_size":100,"bg_color_secondary":false,"width":"wrapper","padding_top":60,"padding_bottom":60}},"1fb597a3-5471-4206-b9a3-0fffc3fab20e":{"type":"section-text","blocks":{"9b7d1ee0-da5b-4205-9179-f178c77b441f":{"type":"button","settings":{"button_text":"Scopri i nostri programmi","button_link":"","button_color":"btn--primary","button_style":"btn--solid","button_size":"btn--small"}}},"block_order":["9b7d1ee0-da5b-4205-9179-f178c77b441f"],"settings":{"text_position":"center","bg_color_secondary":false,"text_color":"text-dark","width":"wrapper--narrow","padding_top":0,"padding_bottom":100}},"eed1639f-4e75-408e-bbba-252f91e4ab8e":{"type":"section-overlapping-images","settings":{"text_position":"left","text_alignment":"left","images_width":750,"images_offset":115,"image_1":"shopify:\/\/shop_images\/Rectangle_22.jpg","image_link_1":"","image_2":"shopify:\/\/shop_images\/Rectangle_23.jpg","image_link_2":"","hide_image_2":false,"heading":"CHI SIAMO","description":"<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas.<\/p>","heading_size":140,"button_text":"Chi siamo","button_link":"","button_color":"btn--primary","button_style":"btn--solid","button_size":"btn--medium","video_text":"","video_link":"","bg_color_secondary":false,"width":"wrapper--full-padded","padding_top":10,"padding_bottom":100}},"9c0639af-31f4-479f-8878-81fcfc3fbfa0":{"type":"section-banner-image","blocks":{"template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-0":{"type":"subheading","settings":{"text":"<h4>mat | Membership<\/h4>","size":100}},"template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-1":{"type":"heading","settings":{"text":"<p>UNISCITI A NOI<\/p>","size":180,"heading_highlight_type":"italics","highlight_color":"#fbcaff"}},"template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-2":{"type":"text","settings":{"text":"<p>Lorem ipsum dolor sit amet consectetur. Turpis dictum quis non sit. Sit ultrices eu leo amet sit posuere. Non egestas cursus et semper. Morbi in cras cursus volutpat lorem mi consectetur.<\/p>","size":100}},"template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-3":{"type":"button","settings":{"button_1_text":"Acquista ora","button_1_link":"#","button_1_color":"btn--secondary","button_1_style":"btn--solid","button_1_size":"btn--large","button_2_text":"","button_2_link":"","button_2_color":"btn--black","button_2_style":"btn--solid","button_2_size":"btn--small"}}},"block_order":["template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-0","template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-1","template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-2","template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-3"],"settings":{"height":"original-height","enable_mobile_height":true,"mobile_height":"five-fifty-height-mobile","image":"shopify:\/\/shop_images\/BG_1.jpg","overlay_opacity":10,"enable_zoom_animation":true,"text_width":"normal","text_position":"center","text_color":"text-light"}},"0fd0a0be-e77a-4ddb-8b85-6b42aef84431":{"type":"section-press","blocks":{"template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-0":{"type":"press","settings":{"text":"<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas.<\/p>","link":"","press_logo":"shopify:\/\/shop_images\/Rectangle_22.jpg","logo_width":120}},"template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-1":{"type":"press","settings":{"text":"<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas.<\/p>","link":"","press_logo":"shopify:\/\/shop_images\/model-with-leather-jacket-over-shoulders.jpg","logo_width":120}},"template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-2":{"type":"press","settings":{"text":"<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas.<\/p>","link":"","press_logo":"shopify:\/\/shop_images\/Rectangle_23.jpg","logo_width":120}}},"block_order":["template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-0","template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-1","template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-2"],"custom_css":["h4.press__heading.subheading-text.aos-init.aos-animate {font-size: 24px; margin-bottom: 40px;}"],"settings":{"title":"Dicono di noi","show_quotations":true,"bg_color_secondary":false,"width":"wrapper--narrow","padding_top":100,"padding_bottom":70}}},"order":["f65731be-fed8-4ca8-825e-2c8bce9ebe5b","section-marquee","b5fd5f20-d2f4-4510-997e-b0f5b093ea45","afde9176-b01d-4346-81aa-9d0e98275d83","76ee0342-dabb-4da7-a033-886f9ca12987","71b33943-f4f8-4191-8e31-c68544d1f02e","1fb597a3-5471-4206-b9a3-0fffc3fab20e","eed1639f-4e75-408e-bbba-252f91e4ab8e","9c0639af-31f4-479f-8878-81fcfc3fbfa0","0fd0a0be-e77a-4ddb-8b85-6b42aef84431"]}
+{
+  "sections": {
+    "f65731be-fed8-4ca8-825e-2c8bce9ebe5b": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--18952593899841__f65731be-fed8-4ca8-825e-2c8bce9ebe5b-168312590450cae23f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BG_Hero.png",
+            "image_mobile": "shopify:\/\/shop_images\/BG_Hero_copia.png",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "center",
+            "text_color": "text-light",
+            "subheading": "Lorem Ipsum",
+            "title": "MORE THAN\nA FITNESS",
+            "text": "Lorem ipsum dolor sit amet consectetur.",
+            "button_1_text": "Unisciti a noi",
+            "button_1_link": "#",
+            "button_1_color": "btn--primary",
+            "button_1_style": "btn--solid",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--secondary",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        },
+        "60877f54-39c6-422a-a24a-f05f9c38b239": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BG_Hero.png",
+            "image_mobile": "shopify:\/\/shop_images\/BG_Hero_copia.png",
+            "overlay_opacity": 10,
+            "text_width": "normal",
+            "text_position": "center",
+            "text_color": "text-light",
+            "subheading": "Lorem ipsum",
+            "title": "Welcome",
+            "text": "Lorem ipsum dolor sit amet consectetur.",
+            "button_1_text": "Shop All",
+            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_color": "btn--primary",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18952593899841__f65731be-fed8-4ca8-825e-2c8bce9ebe5b-168312590450cae23f-0",
+        "60877f54-39c6-422a-a24a-f05f9c38b239"
+      ],
+      "settings": {
+        "slide_height": "full-height",
+        "enable_mobile_height": true,
+        "mobile_slide_height": "full-height-mobile",
+        "show_nav_dots": true,
+        "show_nav_arrows": false,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "fade",
+        "enable_zoom_animation": true,
+        "heading_size": 180
+      }
+    },
+    "section-marquee": {
+      "type": "section-marquee",
+      "blocks": {
+        "41c083ce-1c20-4c62-baa1-e2f756237853": {
+          "type": "text",
+          "settings": {
+            "text": "<p>MORE THAN A FITNESS<\/p>",
+            "icon_name": "none",
+            "icon_color": "#000000",
+            "icon_width": 25,
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "186511e0-df90-4b17-ba87-ec4828f912bd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>-<\/p>",
+            "icon_name": "none",
+            "icon_color": "#000000",
+            "icon_width": 25,
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "41c083ce-1c20-4c62-baa1-e2f756237853",
+        "186511e0-df90-4b17-ba87-ec4828f912bd"
+      ],
+      "settings": {
+        "layout": "marquee",
+        "padding": 20,
+        "bg_color": "#c70102",
+        "color": "#ffffff",
+        "marquee_speed": 50,
+        "slider_speed": 7,
+        "text_size": 150,
+        "message_spacing": 5,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b5fd5f20-d2f4-4510-997e-b0f5b093ea45": {
+      "type": "section-text",
+      "blocks": {
+        "template--18960249684264__b5fd5f20-d2f4-4510-997e-b0f5b093ea45-1688477574f13d2dbb-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>IL METODO<\/p>",
+            "size": 260,
+            "margin_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "template--18960249684264__b5fd5f20-d2f4-4510-997e-b0f5b093ea45-1688477574f13d2dbb-0"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 130,
+        "padding_bottom": 60
+      }
+    },
+    "afde9176-b01d-4346-81aa-9d0e98275d83": {
+      "type": "section-image-accordions",
+      "blocks": {
+        "template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_12.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "STEP 01",
+            "text": "Lorem ipsum dolor sit amet consectetur. \nNibh dictumst nisl sit tortor nibh. \nAliquam cras in.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BG_Hero.png",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "STEP 02",
+            "text": "This text helps you provide some more detail to the title above.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iphone-detects-qr-code.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "STEP 03",
+            "text": "This text helps you provide some more detail to the title above.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        },
+        "template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_23.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "left",
+            "text_color": "text-light",
+            "title": "STEP 04",
+            "text": "This text helps you provide some more detail to the title above.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-0",
+        "template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-1",
+        "template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-2",
+        "template--18960249684264__afde9176-b01d-4346-81aa-9d0e98275d83-1686668992ca07fe89-3"
+      ],
+      "settings": {
+        "accordion_height": "six-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_section_height": "five-fifty-height-mobile",
+        "heading_size": 100,
+        "width": "wrapper--full-padded",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "76ee0342-dabb-4da7-a033-886f9ca12987": {
+      "type": "section-text",
+      "blocks": {
+        "template--18960249684264__76ee0342-dabb-4da7-a033-886f9ca12987-16884735744e7aab02-3": {
+          "type": "button",
+          "settings": {
+            "button_text": "Unisciti a noi",
+            "button_link": "",
+            "button_color": "btn--primary",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--18960249684264__76ee0342-dabb-4da7-a033-886f9ca12987-16884735744e7aab02-3"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "71b33943-f4f8-4191-8e31-c68544d1f02e": {
+      "type": "section-columns",
+      "blocks": {
+        "template--18960249684264__71b33943-f4f8-4191-8e31-c68544d1f02e-1686669012c70e5a5d-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
+            "title": "LOREM IPSUM",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>",
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "5f8845cd-9019-4a3f-980a-e0851213acde": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
+            "title": "LOREM IPSUM",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>",
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "c204c6fe-e6bc-48e0-9600-4db149f632f6": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
+            "title": "LOREM IPSUM",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>",
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "59f410d6-958a-41c4-a6ad-1fa5376c3767": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
+            "title": "LOREM IPSUM",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>",
+            "button_text": "Learn More",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "template--18960249684264__71b33943-f4f8-4191-8e31-c68544d1f02e-1686669012c70e5a5d-0",
+        "5f8845cd-9019-4a3f-980a-e0851213acde",
+        "c204c6fe-e6bc-48e0-9600-4db149f632f6",
+        "59f410d6-958a-41c4-a6ad-1fa5376c3767"
+      ],
+      "settings": {
+        "title": "COME FUNZIONA?",
+        "align_text": "text-left",
+        "columns": 4,
+        "equalize_height": true,
+        "image_aspect_ratio": 1,
+        "show_images": true,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color_secondary": false,
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "1fb597a3-5471-4206-b9a3-0fffc3fab20e": {
+      "type": "section-text",
+      "blocks": {
+        "9b7d1ee0-da5b-4205-9179-f178c77b441f": {
+          "type": "button",
+          "settings": {
+            "button_text": "Scopri i nostri programmi",
+            "button_link": "",
+            "button_color": "btn--primary",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "9b7d1ee0-da5b-4205-9179-f178c77b441f"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "eed1639f-4e75-408e-bbba-252f91e4ab8e": {
+      "type": "section-overlapping-images",
+      "settings": {
+        "text_position": "left",
+        "text_alignment": "left",
+        "images_width": 750,
+        "images_offset": 115,
+        "image_1": "shopify:\/\/shop_images\/Rectangle_22.jpg",
+        "image_link_1": "",
+        "image_2": "shopify:\/\/shop_images\/Rectangle_23.jpg",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "sup_title": "",
+        "heading": "CHI SIAMO",
+        "description": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas.<\/p>",
+        "heading_size": 140,
+        "red_text": "Lorem ipsum",
+        "button_text": "Chi siamo",
+        "button_link": "",
+        "button_color": "btn--primary",
+        "button_style": "btn--solid",
+        "button_size": "btn--medium",
+        "video_text": "",
+        "video_link": "",
+        "bg_color_secondary": false,
+        "width": "wrapper--full-padded",
+        "padding_top": 10,
+        "padding_bottom": 100
+      }
+    },
+    "9c0639af-31f4-479f-8878-81fcfc3fbfa0": {
+      "type": "section-banner-image",
+      "blocks": {
+        "template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "<h4>mat | Membership<\/h4>",
+            "size": 100
+          }
+        },
+        "template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>UNISCITI A NOI<\/p>",
+            "size": 180,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#fbcaff"
+          }
+        },
+        "template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Turpis dictum quis non sit. Sit ultrices eu leo amet sit posuere. Non egestas cursus et semper. Morbi in cras cursus volutpat lorem mi consectetur.<\/p>",
+            "size": 100
+          }
+        },
+        "template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-3": {
+          "type": "button",
+          "settings": {
+            "button_1_text": "Acquista ora",
+            "button_1_link": "#",
+            "button_1_color": "btn--secondary",
+            "button_1_style": "btn--solid",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-0",
+        "template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-1",
+        "template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-2",
+        "template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-3"
+      ],
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": true,
+        "mobile_height": "five-fifty-height-mobile",
+        "image": "shopify:\/\/shop_images\/BG_1.jpg",
+        "overlay_opacity": 10,
+        "enable_zoom_animation": true,
+        "text_width": "normal",
+        "text_position": "center",
+        "text_color": "text-light"
+      }
+    },
+    "0fd0a0be-e77a-4ddb-8b85-6b42aef84431": {
+      "type": "section-press",
+      "blocks": {
+        "template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-0": {
+          "type": "press",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas.<\/p>",
+            "link": "",
+            "logo_width": 120
+          }
+        },
+        "template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-1": {
+          "type": "press",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas.<\/p>",
+            "link": "",
+            "logo_width": 120
+          }
+        },
+        "template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-2": {
+          "type": "press",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas.<\/p>",
+            "link": "",
+            "logo_width": 120
+          }
+        }
+      },
+      "block_order": [
+        "template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-0",
+        "template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-1",
+        "template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-2"
+      ],
+      "custom_css": [
+        "h4.press__heading.subheading-text.aos-init.aos-animate {font-size: 24px; margin-bottom: 40px;}"
+      ],
+      "settings": {
+        "title": "Dicono di noi",
+        "show_quotations": true,
+        "bg_color_secondary": false,
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 70
+      }
+    }
+  },
+  "order": [
+    "f65731be-fed8-4ca8-825e-2c8bce9ebe5b",
+    "section-marquee",
+    "b5fd5f20-d2f4-4510-997e-b0f5b093ea45",
+    "afde9176-b01d-4346-81aa-9d0e98275d83",
+    "76ee0342-dabb-4da7-a033-886f9ca12987",
+    "71b33943-f4f8-4191-8e31-c68544d1f02e",
+    "1fb597a3-5471-4206-b9a3-0fffc3fab20e",
+    "eed1639f-4e75-408e-bbba-252f91e4ab8e",
+    "9c0639af-31f4-479f-8878-81fcfc3fbfa0",
+    "0fd0a0be-e77a-4ddb-8b85-6b42aef84431"
+  ]
+}
