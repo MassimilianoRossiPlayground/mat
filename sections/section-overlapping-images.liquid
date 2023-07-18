@@ -280,6 +280,10 @@
           </div>
         {%- endif -%}
 
+        {%- if section.settings.image_under_text -%}
+          <img class="image-under-text" src="{{ section.settings.image_under_text | img_url = "master"}}" alt="mat">
+        {%- endif -%}
+
         {%- if button_text != blank -%}
           <div class="overlapping-images__buttons main-buttons">
             <div class="main-buttons__item"
@@ -401,6 +405,11 @@
       "max": 200,
       "step": 10,
       "unit": "%"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_under_text",
+      "label": "Image under text"
     },
     {
       "type": "header",
