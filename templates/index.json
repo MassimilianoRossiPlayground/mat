@@ -16,7 +16,7 @@
             "title": "MORE THAN\nA FITNESS",
             "text": "Lorem ipsum dolor sit amet consectetur.",
             "button_1_text": "Unisciti a noi",
-            "button_1_link": "#",
+            "button_1_link": "shopify:\/\/pages\/train-online",
             "button_1_color": "btn--primary",
             "button_1_style": "btn--solid",
             "button_1_size": "btn--small",
@@ -127,7 +127,7 @@
             "text": "<p>IL METODO<\/p>",
             "size": 100,
             "heading_highlight_type": "italics",
-            "highlight_color": "#D43747"
+            "highlight_color": "#d43747"
           }
         }
       },
