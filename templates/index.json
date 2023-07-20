@@ -406,7 +406,7 @@
         "heading_size": 140,
         "red_text": "",
         "button_text": "Chi siamo",
-        "button_link": "",
+        "button_link": "shopify:\/\/pages\/chi-siamo",
         "button_color": "btn--primary",
         "button_style": "btn--solid",
         "button_size": "btn--medium",
