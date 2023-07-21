@@ -153,7 +153,7 @@
           "type": "button",
           "settings": {
             "button_text": "Contattaci per maggiori info",
-            "button_link": "\/pages\/la-palestra#shopify-section-template--19946931126568__af81d050-1061-49c5-940e-51672b6c5802",
+            "button_link": "#contact-form",
             "button_color": "btn--primary",
             "button_style": "btn--solid",
             "button_size": "btn--small"
