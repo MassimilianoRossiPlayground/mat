@@ -245,7 +245,7 @@
       "settings": {
         "title": "",
         "align_text": "text-left",
-        "columns": 2,
+        "columns": 1,
         "equalize_height": true,
         "image_aspect_ratio": 0.7,
         "show_images": true,
@@ -326,7 +326,7 @@
         ".form__item {color: #000;}"
       ],
       "settings": {
-        "background_color": "#ffffff",
+        "background_color": "",
         "button_color": "btn--primary",
         "button_style": "btn--solid",
         "button_size": "btn--large",
