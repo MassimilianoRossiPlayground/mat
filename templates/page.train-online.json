@@ -256,7 +256,7 @@
         "template--19733715058984__f6f8b946-848c-4c30-8783-1a01835aff83-16884868275243e329-0": {
           "type": "subheading",
           "settings": {
-            "text": "<p>Welcome to<\/p>",
+            "text": "<p>mat | Membership<\/p>",
             "size": 100
           }
         },
@@ -272,7 +272,7 @@
         "template--19733715058984__f6f8b946-848c-4c30-8783-1a01835aff83-16884868275243e329-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand, describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Turpis dictum quis non sit. Sit ultrices eu leo amet sit posuere. Non egestas cursus et semper. Morbi in cras cursus volutpat lorem mi consectetur.<\/p>",
             "size": 100
           }
         },
@@ -280,7 +280,7 @@
           "type": "button",
           "settings": {
             "button_1_text": "Acquista ora",
-            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_link": "\/pages\/train-online#Text--template--19946930798888__8b0efa44-ffc7-484f-b182-9db039a1b493",
             "button_1_color": "btn--secondary",
             "button_1_style": "btn--solid",
             "button_1_size": "btn--small",
@@ -348,7 +348,7 @@
             "title": "FORZA",
             "text": "Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.",
             "button_1_text": "Scopri di più",
-            "button_1_link": "",
+            "button_1_link": "shopify:\/\/products\/forza",
             "button_2_text": "",
             "button_2_link": "",
             "text_color": "text-light"
