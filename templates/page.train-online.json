@@ -330,7 +330,7 @@
         "bg_color_secondary": false,
         "text_color": "text-light",
         "width": "wrapper--narrow",
-        "padding_top": 200,
+        "padding_top": 100,
         "padding_bottom": 0
       }
     },
@@ -462,7 +462,7 @@
         "width": "wrapper",
         "add_gutter": true,
         "padding_top": 60,
-        "padding_bottom": 60
+        "padding_bottom": 100
       }
     }
   },
