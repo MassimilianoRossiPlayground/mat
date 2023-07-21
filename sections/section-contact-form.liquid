@@ -148,7 +148,8 @@
 
 <section
 id="{{ id }}"
-class="section-padding"
+class="section-padding" 
+style="background-color: {{ section.settings.background_color }};"
 data-section-type="contact-form"
 data-section-id="{{ section.id }}">
   <div class="{{ section_width }}">
@@ -243,6 +244,11 @@ data-section-id="{{ section.id }}">
   "name": "Contact form",
   "class": "shopify-section--contact-form",
   "settings": [
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "background Color"
+    },
     {
       "type": "paragraph",
       "content": "Name, Email, and Message fields are required. You can add them as blocks in order to edit or reorder."
