@@ -266,6 +266,12 @@
             "title": "Contattaci"
           }
         },
+        "fab08a1e-a080-47a4-9f1a-d41d710bfe3d": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Compila il form con i tuoi dati e ti ricontatteremo via whatsapp entro poche per fissare il tuo Primo Appuntamento con Matteo Piran.<\/p>"
+          }
+        },
         "template--19750616695080__af81d050-1061-49c5-940e-51672b6c5802-1688567738f13dd133-1": {
           "type": "text",
           "settings": {
@@ -311,6 +317,7 @@
       },
       "block_order": [
         "template--19750616695080__af81d050-1061-49c5-940e-51672b6c5802-1688567738f13dd133-0",
+        "fab08a1e-a080-47a4-9f1a-d41d710bfe3d",
         "template--19750616695080__af81d050-1061-49c5-940e-51672b6c5802-1688567738f13dd133-1",
         "a5c72483-b632-4841-96d8-dd3db8b54db0",
         "template--19750616695080__af81d050-1061-49c5-940e-51672b6c5802-1688567738f13dd133-2",
