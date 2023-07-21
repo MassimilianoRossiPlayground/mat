@@ -193,33 +193,8 @@
         "bg_color_secondary": false,
         "text_color": "text-light",
         "width": "wrapper--narrow",
-        "padding_top": 100,
-        "padding_bottom": 100
-      }
-    },
-    "162a4066-6792-4a0c-8f60-ccbf3360c5b9": {
-      "type": "section-text",
-      "blocks": {
-        "template--19946930962728__162a4066-6792-4a0c-8f60-ccbf3360c5b9-168968349248a3dbdb-1": {
-          "type": "heading",
-          "settings": {
-            "text": "<p>COME FUNZIONA?<\/p>",
-            "size": 100,
-            "heading_highlight_type": "italics",
-            "highlight_color": "#d43747"
-          }
-        }
-      },
-      "block_order": [
-        "template--19946930962728__162a4066-6792-4a0c-8f60-ccbf3360c5b9-168968349248a3dbdb-1"
-      ],
-      "settings": {
-        "text_position": "center",
-        "bg_color_secondary": false,
-        "text_color": "text-light",
-        "width": "wrapper--narrow",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "6024c892-8ac7-4365-a286-b59d8c935cee": {
@@ -611,7 +586,6 @@
     "0c8748de-69c5-48bf-92a1-6a856f9579de",
     "main",
     "b3a6b747-09ac-44b5-a818-d8873a2c6316",
-    "162a4066-6792-4a0c-8f60-ccbf3360c5b9",
     "6024c892-8ac7-4365-a286-b59d8c935cee",
     "8c6762fe-1c4c-4105-8575-6836f7762854",
     "1ebb5a05-7069-460a-a043-63d41c7da96a",
