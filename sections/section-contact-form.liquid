@@ -47,7 +47,7 @@
 
       {%- when 'paragraph' -%}
         <div class="form__item form__item--heading" {{ animation_attributes }} {{ block.shopify_attributes }}>
-          <div class="form__paragraph">{{ block.paragraph }}</div>
+          <div class="form__paragraph">{{ block.settings.paragraph }}</div>
         </div>
 
       {%- when 'email' -%}
@@ -600,3 +600,11 @@ data-section-id="{{ section.id }}">
   }
 }
 {% endschema %}
+
+
+{% style %}
+.form__paragraph {
+  text-align: center;
+  margin: 40px 0;
+}
+{% endstyle %}
