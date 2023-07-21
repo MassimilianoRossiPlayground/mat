@@ -283,7 +283,7 @@
           "type": "text",
           "settings": {
             "title": "Cognome",
-            "required": false
+            "required": true
           }
         },
         "template--19750616695080__af81d050-1061-49c5-940e-51672b6c5802-1688567738f13dd133-2": {
@@ -297,7 +297,7 @@
           "type": "telephone",
           "settings": {
             "title": "Numero di telefono",
-            "required": false
+            "required": true
           }
         },
         "template--19750616695080__af81d050-1061-49c5-940e-51672b6c5802-1688567738f13dd133-3": {
