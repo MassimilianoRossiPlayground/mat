@@ -280,7 +280,7 @@
           "type": "button",
           "settings": {
             "button_1_text": "Acquista ora",
-            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_link": "#Text--template--20022848586024__8b0efa44-ffc7-484f-b182-9db039a1b493",
             "button_1_color": "btn--secondary",
             "button_1_style": "btn--solid",
             "button_1_size": "btn--small",
