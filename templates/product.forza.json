@@ -222,6 +222,137 @@
         "padding_bottom": 0
       }
     },
+    "6024c892-8ac7-4365-a286-b59d8c935cee": {
+      "type": "section-grid",
+      "blocks": {
+        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "1.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "0d9f10d6-aae8-468f-9c5b-c180f372abc4": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "2.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "08c895e0-2f73-426b-802e-b270ba309c0f": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "3.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "bae8d050-0253-411d-af9f-54943f249626": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "4.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "dd8753d1-0b1e-4610-b824-6a5f63a78129": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "5.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "c0197ca4-f8fa-40e6-9839-de263663968f": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "6.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2",
+        "0d9f10d6-aae8-468f-9c5b-c180f372abc4",
+        "08c895e0-2f73-426b-802e-b270ba309c0f",
+        "bae8d050-0253-411d-af9f-54943f249626",
+        "dd8753d1-0b1e-4610-b824-6a5f63a78129",
+        "c0197ca4-f8fa-40e6-9839-de263663968f"
+      ],
+      "settings": {
+        "height": "350",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "9e20263c-76ed-4135-b078-cb3a85e38be6": {
       "type": "section-columns",
       "blocks": {
@@ -540,6 +671,7 @@
     "main",
     "b3a6b747-09ac-44b5-a818-d8873a2c6316",
     "162a4066-6792-4a0c-8f60-ccbf3360c5b9",
+    "6024c892-8ac7-4365-a286-b59d8c935cee",
     "9e20263c-76ed-4135-b078-cb3a85e38be6",
     "1ebb5a05-7069-460a-a043-63d41c7da96a",
     "16206330-83fc-4382-b04f-469ed6fd2fbe",
