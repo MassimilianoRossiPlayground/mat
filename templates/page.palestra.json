@@ -326,6 +326,7 @@
         ".form__item {color: #000;}"
       ],
       "settings": {
+        "background_color": "#ffffff",
         "button_color": "btn--primary",
         "button_style": "btn--solid",
         "button_size": "btn--large",
