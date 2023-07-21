@@ -147,7 +147,7 @@
         "ea53c478-02c3-48e7-bcd5-cf807655dd19": {
           "type": "subheading",
           "settings": {
-            "text": "<p>COME FUNZIONA?<\/p>",
+            "text": "<p><strong>COME FUNZIONA?<\/strong><\/p>",
             "size": 200,
             "margin_bottom": 16
           }
@@ -316,7 +316,7 @@
         "9ca83f2a-623f-438d-a7ed-ecde451219a5": {
           "type": "subheading",
           "settings": {
-            "text": "<p>I PROGRAMMI<\/p>",
+            "text": "<p><strong>I PROGRAMMI<\/strong><\/p>",
             "size": 200,
             "margin_bottom": 16
           }
