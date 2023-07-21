@@ -45,6 +45,11 @@
           <h2 class="form__heading">{{ block_title }}</h2>
         </div>
 
+      {%- when 'paragraph' -%}
+        <div class="form__item form__item--heading" {{ animation_attributes }} {{ block.shopify_attributes }}>
+          <div class="form__paragraph">{{ block.paragraph }}</div>
+        </div>
+
       {%- when 'email' -%}
         <div class="form__item" {{ animation_attributes }} {{ block.shopify_attributes }}>
           <label for="{{ input_id }}" class="hidden-label">{{ block_title }}</label>
@@ -340,6 +345,17 @@ data-section-id="{{ section.id }}">
           "label": "Form heading",
           "default": "Contact us"
         }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "name": "Form paragraph",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "richtext",
+          "id": "paragraph",
+          "label": "Form paragraph"        }
       ]
     },
     {
