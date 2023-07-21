@@ -15,3 +15,8 @@ svg.icon.icon-shopping-bag {
 .navlink--toplevel>.navtext:after, .grandparent .navlink--child>.navtext:after {
     background: #fff !important;
 }
+h1.page-title {
+    text-transform: uppercase;
+    font-size: 80px;
+    font-family: "Programme-Bold";
+}
