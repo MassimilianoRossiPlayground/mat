@@ -51,6 +51,7 @@
                 #Text--{{ block_id }}.text__subheading {
                   --adjust-body: calc(var(--FONT-ADJUST-SUBHEADING) * {{ text_size_mobile }});
                   --text-gap: {{ block.settings.margin_bottom }}px;
+                  font-family: "Programme-Bold";
                 }
                 @media screen and (min-width: 1024px) {
                   #Text--{{ block_id }}.text__subheading { --adjust-body: calc(var(--FONT-ADJUST-SUBHEADING) * {{ text_size }}); }
@@ -58,14 +59,14 @@
               {%- endstyle -%}
 
               {%- if text != blank -%}
-                <div id="Text--{{ block_id }}" class="text__subheading subheading-text"
+                <h4 id="Text--{{ block_id }}" class="text__subheading subheading-text"
                   {% if animations_enabled %}
                     data-aos="fade-up"
                     data-aos-anchor="{{ animation_anchor }}"
                     data-aos-delay="{{ animation_delay }}"
                     {%- assign animation_delay = animation_delay | plus: 150 -%}
                   {% endif %}
-                  {{ block.shopify_attributes }}>{{ text }}</div>
+                  {{ block.shopify_attributes }}>{{ text }}</h4>
               {%- endif -%}
 
             {%- when 'heading' -%}
