@@ -296,7 +296,7 @@
         "3cfcfb49-1c4d-4509-878e-bb814fe7ade5": {
           "type": "telephone",
           "settings": {
-            "title": "Phone Number",
+            "title": "Numero di telefono",
             "required": false
           }
         },
