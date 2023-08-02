@@ -125,7 +125,7 @@
           "type": "heading",
           "settings": {
             "text": "<p><strong>LA METODOLOGIA<\/strong><\/p>",
-            "size": 100,
+            "size": 150,
             "heading_highlight_type": "italics",
             "highlight_color": "#d43747"
           }
