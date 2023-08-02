@@ -518,10 +518,10 @@
         "template--18952593899841__0fd0a0be-e77a-4ddb-8b85-6b42aef84431-1683128791b688bb72-2"
       ],
       "custom_css": [
-        "h4.press__heading.subheading-text.aos-init.aos-animate {font-size: 24px; margin-bottom: 40px;}"
+        "h4.press__heading.subheading-text.aos-init.aos-animate {font-size: 40px; margin-bottom: 40px; font-family: \"OPTI-Bold\";}"
       ],
       "settings": {
-        "title": "Dicono di noi",
+        "title": "dicono di noi",
         "show_quotations": true,
         "bg_color_secondary": false,
         "width": "wrapper--narrow",
