@@ -402,10 +402,10 @@
         "hide_image_2": false,
         "sup_title": "",
         "heading": "CHI SIAMO",
-        "description": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas.<\/p>",
+        "description": "<p>Ho creato Mat per far sì che anche le persone impegnate tra famiglia e lavoro, con spazi, attrezzature e tempo limitati possano allenarsi e prendersi cura della propria persona”. Matteo Piran – founder di MAT more than fitness - Insieme ad un team di coach qualificati farà in modo che questo avvenga anche per te. <\/p>",
         "heading_size": 140,
         "red_text": "",
-        "button_text": "Chi siamo",
+        "button_text": "Scopri chi siamo",
         "button_link": "shopify:\/\/pages\/chi-siamo",
         "button_color": "btn--primary",
         "button_style": "btn--solid",
@@ -440,7 +440,7 @@
         "template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Turpis dictum quis non sit. Sit ultrices eu leo amet sit posuere. Non egestas cursus et semper. Morbi in cras cursus volutpat lorem mi consectetur.<\/p>",
+            "text": "<p>C’è un solo errore che puoi fare: continuare a non far nulla! <\/p><p>Allenati comunque ed ovunque. I nostri coach ti guideranno e la nostra comunità ti motiverà, condividendo con te difficoltà e soddisfazioni.<\/p>",
             "size": 100
           }
         },
