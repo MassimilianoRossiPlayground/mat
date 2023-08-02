@@ -156,7 +156,7 @@
           "type": "button",
           "settings": {
             "button_text": "Unisciti a noi",
-            "button_link": "shopify:\/\/pages\/train-online",
+            "button_link": "shopify:\/\/pages\/allenamento-on-line",
             "button_color": "btn--primary",
             "button_style": "btn--solid",
             "button_size": "btn--small"
