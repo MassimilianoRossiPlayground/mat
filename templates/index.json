@@ -469,6 +469,9 @@
         "template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-2",
         "template--18952593899841__9c0639af-31f4-479f-8878-81fcfc3fbfa0-16831285413c69ee80-3"
       ],
+      "custom_css": [
+        "span.text-highlight__break {font-family: \"OPTI-Bold\";}"
+      ],
       "settings": {
         "height": "original-height",
         "enable_mobile_height": true,
