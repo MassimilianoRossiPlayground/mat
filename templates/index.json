@@ -284,8 +284,8 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "LOREM IPSUM",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>",
+            "title": "1.\tREGISTRATI E SCEGLI IL TUOPROGRAMMA",
+            "text": "<p>Iscriviti a MAT e sceglie il programma che meglio si adatta alle tue esigenze di vita.<\/p>",
             "button_text": "Learn More",
             "button_link": "",
             "button_color": "btn--black",
@@ -299,8 +299,8 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "LOREM IPSUM",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>",
+            "title": "2. COSTRUISCI LA REGOLARITA’",
+            "text": "<p>C’è solo una cosa più difficile dell’iniziare ad allenarti, continuare a farlo in modo costante nel tempo. Noi vogliamo aiutarti a farlo.<\/p>",
             "button_text": "Learn More",
             "button_link": "",
             "button_color": "btn--black",
@@ -314,8 +314,8 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "LOREM IPSUM",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>",
+            "title": "3.\tVIVI LA TUA ESPERIENZA DI FITNESS",
+            "text": "<p>Trova l’equilibrio e diventa padrone del tuo benessere. Adattiamo il tuo fitness alle tue abitudini.<\/p>",
             "button_text": "Learn More",
             "button_link": "",
             "button_color": "btn--black",
@@ -329,8 +329,8 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "LOREM IPSUM",
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.<\/p>",
+            "title": "4. CONDIVIDI E MONITORA",
+            "text": "<p>Condividi il tuo percorso con persone come te e controlla periodicamente i tuoi risultati.<\/p>",
             "button_text": "Learn More",
             "button_link": "",
             "button_color": "btn--black",
