@@ -193,118 +193,165 @@
         "bg_color_secondary": false,
         "text_color": "text-light",
         "width": "wrapper--narrow",
-        "padding_top": 100,
-        "padding_bottom": 100
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
-    "162a4066-6792-4a0c-8f60-ccbf3360c5b9": {
-      "type": "section-text",
+    "6024c892-8ac7-4365-a286-b59d8c935cee": {
+      "type": "section-grid",
       "blocks": {
-        "template--19946930962728__162a4066-6792-4a0c-8f60-ccbf3360c5b9-168968349248a3dbdb-1": {
-          "type": "heading",
+        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2": {
+          "type": "image",
           "settings": {
-            "text": "<p>COME FUNZIONA?<\/p>",
-            "size": 100,
-            "heading_highlight_type": "italics",
-            "highlight_color": "#d43747"
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "1.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "0d9f10d6-aae8-468f-9c5b-c180f372abc4": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "2.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "08c895e0-2f73-426b-802e-b270ba309c0f": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "3.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "bae8d050-0253-411d-af9f-54943f249626": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "4.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "dd8753d1-0b1e-4610-b824-6a5f63a78129": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "5.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "c0197ca4-f8fa-40e6-9839-de263663968f": {
+          "type": "image",
+          "settings": {
+            "width": "33.33",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "6.",
+            "title": "LOREM IPSUM",
+            "text": "Add more info or delete this text",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
           }
         }
       },
       "block_order": [
-        "template--19946930962728__162a4066-6792-4a0c-8f60-ccbf3360c5b9-168968349248a3dbdb-1"
+        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2",
+        "0d9f10d6-aae8-468f-9c5b-c180f372abc4",
+        "08c895e0-2f73-426b-802e-b270ba309c0f",
+        "bae8d050-0253-411d-af9f-54943f249626",
+        "dd8753d1-0b1e-4610-b824-6a5f63a78129",
+        "c0197ca4-f8fa-40e6-9839-de263663968f"
+      ],
+      "settings": {
+        "height": "350",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "8c6762fe-1c4c-4105-8575-6836f7762854": {
+      "type": "section-text",
+      "blocks": {
+        "template--19946930962728__8c6762fe-1c4c-4105-8575-6836f7762854-button-1": {
+          "type": "button",
+          "settings": {
+            "button_text": "Acquista ora",
+            "button_link": "#ProductTemplate--template--20022848913704__main",
+            "button_color": "btn--primary",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__8c6762fe-1c4c-4105-8575-6836f7762854-button-1"
       ],
       "settings": {
         "text_position": "center",
         "bg_color_secondary": false,
-        "text_color": "text-light",
+        "text_color": "text-dark",
         "width": "wrapper--narrow",
         "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "9e20263c-76ed-4135-b078-cb3a85e38be6": {
-      "type": "section-columns",
-      "blocks": {
-        "template--19946930962728__9e20263c-76ed-4135-b078-cb3a85e38be6-16896836090868c9a8-0": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "Add a title or tagline",
-            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
-            "button_text": "LOREM IPSUM",
-            "button_link": "",
-            "button_color": "btn--black",
-            "button_style": "btn--text",
-            "button_size": "btn--small",
-            "video_link_popup": "",
-            "video_link_color": "text-dark"
-          }
-        },
-        "b721955a-0214-4345-a739-6b4ac25982a9": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "Add a title or tagline",
-            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
-            "button_text": "LOREM IPSUM",
-            "button_link": "",
-            "button_color": "btn--black",
-            "button_style": "btn--text",
-            "button_size": "btn--small",
-            "video_link_popup": "",
-            "video_link_color": "text-dark"
-          }
-        },
-        "d4acfe14-3ff1-4ab8-a58a-1d87f3e5dd98": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "Add a title or tagline",
-            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
-            "button_text": "LOREM IPSUM",
-            "button_link": "",
-            "button_color": "btn--black",
-            "button_style": "btn--text",
-            "button_size": "btn--small",
-            "video_link_popup": "",
-            "video_link_color": "text-dark"
-          }
-        },
-        "d2c6b77a-19bc-49e2-b791-c8d9225d5b7d": {
-          "type": "text_block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "Add a title or tagline",
-            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
-            "button_text": "LOREM IPSUM",
-            "button_link": "",
-            "button_color": "btn--black",
-            "button_style": "btn--text",
-            "button_size": "btn--small",
-            "video_link_popup": "",
-            "video_link_color": "text-dark"
-          }
-        }
-      },
-      "block_order": [
-        "template--19946930962728__9e20263c-76ed-4135-b078-cb3a85e38be6-16896836090868c9a8-0",
-        "b721955a-0214-4345-a739-6b4ac25982a9",
-        "d4acfe14-3ff1-4ab8-a58a-1d87f3e5dd98",
-        "d2c6b77a-19bc-49e2-b791-c8d9225d5b7d"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "text-left",
-        "columns": 4,
-        "equalize_height": true,
-        "image_aspect_ratio": 0.8,
-        "show_images": true,
-        "heading_size": 120,
-        "text_size": 100,
-        "bg_color_secondary": false,
-        "width": "wrapper",
-        "padding_top": 60,
-        "padding_bottom": 60
+        "padding_bottom": 100
       }
     },
     "1ebb5a05-7069-460a-a043-63d41c7da96a": {
@@ -539,8 +586,8 @@
     "0c8748de-69c5-48bf-92a1-6a856f9579de",
     "main",
     "b3a6b747-09ac-44b5-a818-d8873a2c6316",
-    "162a4066-6792-4a0c-8f60-ccbf3360c5b9",
-    "9e20263c-76ed-4135-b078-cb3a85e38be6",
+    "6024c892-8ac7-4365-a286-b59d8c935cee",
+    "8c6762fe-1c4c-4105-8575-6836f7762854",
     "1ebb5a05-7069-460a-a043-63d41c7da96a",
     "16206330-83fc-4382-b04f-469ed6fd2fbe",
     "028653f2-4c83-4a87-807e-76b006e9ed45",
