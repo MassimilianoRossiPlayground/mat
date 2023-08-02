@@ -390,6 +390,9 @@
     },
     "eed1639f-4e75-408e-bbba-252f91e4ab8e": {
       "type": "section-overlapping-images",
+      "custom_css": [
+        "h2.overlapping-images__heading.main-heading.aos-init.aos-animate {font-size: 50px;}"
+      ],
       "settings": {
         "text_position": "left",
         "text_alignment": "left",
