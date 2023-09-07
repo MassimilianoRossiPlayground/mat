@@ -173,8 +173,8 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "LOREM IPSUM",
-            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
+            "title": "1. REGISTRATI E SCEGLIIL TUO PROGRAMMA",
+            "text": "<p>Iscriviti a MAT e sceglie il programma che meglio si adatta alle tue esigenze di vita.<br\/><\/p>",
             "button_text": "Learn More",
             "button_link": "",
             "button_color": "btn--black",
@@ -188,8 +188,8 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "Add a title or tagline",
-            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
+            "title": "2. COSTRUISCI LA REGOLARITA’",
+            "text": "<p>C’è solo una cosa più difficile dell’iniziare ad allenarti, continuare a farlo in modo costante nel tempo. Noi vogliamo aiutarti a farlo.<br\/><\/p>",
             "button_text": "Learn More",
             "button_link": "",
             "button_color": "btn--black",
@@ -203,8 +203,8 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "Add a title or tagline",
-            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
+            "title": "3. VIVI LA TUA ESPERIENZA DI FITNESS",
+            "text": "<p>Trova l’equilibrio e diventa padrone del tuo benessere. Adattiamo insieme il tuo fitness alle tue abitudini.<br\/><\/p>",
             "button_text": "Learn More",
             "button_link": "",
             "button_color": "btn--black",
@@ -218,8 +218,8 @@
           "type": "text_block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Rectangle_9.jpg",
-            "title": "Add a title or tagline",
-            "text": "<p>Use this text to describe products, share details on availability and style, etc<\/p>",
+            "title": "4. CONDIVIDI E MONITORA",
+            "text": "<p>Condividi il tuo percorso con persone come te e controlla periodicamente i tuoi risultati.<\/p>",
             "button_text": "Learn More",
             "button_link": "",
             "button_color": "btn--black",
@@ -248,7 +248,33 @@
         "bg_color_secondary": false,
         "width": "wrapper",
         "padding_top": 60,
-        "padding_bottom": 100
+        "padding_bottom": 50
+      }
+    },
+    "8b50d591-a156-41f6-bd7d-507e453c576f": {
+      "type": "section-text",
+      "blocks": {
+        "template--19946930798888__8b50d591-a156-41f6-bd7d-507e453c576f-button-1": {
+          "type": "button",
+          "settings": {
+            "button_text": "SCOPRI I NOSTRIPROGRAMMI",
+            "button_link": "#",
+            "button_color": "btn--primary",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930798888__8b50d591-a156-41f6-bd7d-507e453c576f-button-1"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 0,
+        "padding_bottom": 60
       }
     },
     "f6f8b946-848c-4c30-8783-1a01835aff83": {
@@ -473,6 +499,7 @@
     "cf0f798e-bcf1-487b-bdd3-55fcb23fc9bd",
     "69cbea8e-204f-43cb-acc2-5f14437f4259",
     "bce94d89-94d9-4e4c-a051-c2f99f04580f",
+    "8b50d591-a156-41f6-bd7d-507e453c576f",
     "f6f8b946-848c-4c30-8783-1a01835aff83",
     "8b0efa44-ffc7-484f-b182-9db039a1b493",
     "f321936e-1880-488d-a668-af550a843052"
