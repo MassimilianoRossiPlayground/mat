@@ -68,7 +68,7 @@
         "b5105e0c-546b-4dca-b7f3-56bf27ad9904": {
           "type": "heading",
           "settings": {
-            "text": "<p>MODALITÀ DI INTERAZIONE<\/p>",
+            "text": "<p>COME FUNZIONA LO STUDIO<\/p>",
             "size": 100,
             "heading_highlight_type": "italics",
             "highlight_color": "#d43747"
@@ -99,7 +99,7 @@
             "text_position": "center",
             "subheading": "",
             "title": "AUTONOMO",
-            "text": "Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.",
+            "text": "Nello Studio si possono affrontare i Daily Workout in autonomia o le sessioni di allenamento con piano personalizzato utilizzando l’attrezzatura messa a disposizione, godendo sempre della supervisione diMatteo e Marta, il tutto in uno spazio riservato.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -115,8 +115,8 @@
             "overlay_opacity": 10,
             "text_position": "center",
             "subheading": "",
-            "title": "ASSISTITO",
-            "text": "Lorem ipsum dolor sit amet consectetur. Nibh dictumst nisl sit tortor nibh. Aliquam cras in.",
+            "title": "PICCOLI GRUPPI",
+            "text": "Lo Studio può ospitare sessioni small group di allenamento quotidiano o specifico su alcune skills guidate dai Coach MAT. Un ambiente riservato per condividere con gli amici un momento di Fitness.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
