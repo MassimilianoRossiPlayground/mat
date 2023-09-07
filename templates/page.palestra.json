@@ -16,8 +16,8 @@
         "template--19750317359400__523b43e6-db34-466d-9090-704a3b8ae760-168856619626a8e0de-1": {
           "type": "heading",
           "settings": {
-            "text": "<p>LA PALESTRA<\/p>",
-            "size": 180,
+            "text": "<p>LO STUDIO<\/p>",
+            "size": 300,
             "heading_highlight_type": "italics",
             "highlight_color": "#d43747"
           }
@@ -44,8 +44,8 @@
         "template--19733715058984__70d0eb6b-6142-4ef0-a5e9-86f6550ac6f0-16884838561c5ae39b-0": {
           "type": "subheading",
           "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas. Urna sed molestie nunc felis accumsan pellentesque aliquam massa. Lectus pretium cursus condimentum sit consectetur scelerisque ultricies in.<\/p>",
-            "size": 100,
+            "text": "<p>Lo Studio di Pavia è il cuore di MAT, il luogo dove tutto è nato.<br\/>Prima era una semplice area privata di allenamento, all’interno della casa di Matteo e Marta, gli ideatori dI MAT. <br\/>Nasceva come alternativa alla palestra nelle giornate piene tra impegni di lavoro e famiglia.<br\/>Proprio da qui l’idea di creare un programma che permettesse alle persone di prendersi cura del proprio Fitness ovunque ,anche con poco tempo e con un’attrezzatura limitata a disposizione.<br\/>Lo Studio ha così iniziato ad ospitare sessioni di training singole o in piccolo gruppo ed ha trovato nella  programmazione on-line una perfetta declinazione con la sua offerta personalizzata.<\/p>",
+            "size": 120,
             "margin_bottom": 16
           }
         }
@@ -57,7 +57,7 @@
         "text_position": "center",
         "bg_color_secondary": false,
         "text_color": "text-light",
-        "width": "wrapper--narrow",
+        "width": "wrapper",
         "padding_top": 100,
         "padding_bottom": 100
       }
