@@ -368,7 +368,7 @@
           "type": "image",
           "settings": {
             "width": "50",
-            "image": "shopify:\/\/shop_images\/Rectangle_10.jpg",
+            "image": "shopify:\/\/shop_images\/0137.jpg",
             "overlay_opacity": 10,
             "text_position": "center",
             "subheading": "",
@@ -385,13 +385,13 @@
           "type": "image",
           "settings": {
             "width": "50",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_8c9f6865-818a-409c-b999-63c6bebd0cfc.jpg",
+            "image": "shopify:\/\/shop_images\/0153.jpg",
             "overlay_opacity": 10,
             "text_position": "center",
             "subheading": "",
             "title": "PROGRAMMI EXTRA",
             "text": "Programmi specifici per chi desidera sviluppare alcune skills, approcciare diverse tipologie di allenamento o semplicemente per variare il proprio daily training.",
-            "button_1_text": "Shop Now",
+            "button_1_text": "Scopri di più",
             "button_1_link": "",
             "button_2_text": "",
             "button_2_link": "",
@@ -400,6 +400,7 @@
         },
         "template--19733715058984__f321936e-1880-488d-a668-af550a843052-168848715067e03201-2": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/Rectangle_10_1.jpg",
@@ -417,6 +418,7 @@
         },
         "template--19733715058984__f321936e-1880-488d-a668-af550a843052-168848715067e03201-3": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/Rectangle_10_c79f5f96-c82c-42c8-b2f7-32c3121b12a9.jpg",
@@ -434,6 +436,7 @@
         },
         "8ec0f01c-1e06-41d1-ae9f-9fc9aa561b6e": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/Rectangle_10_2.jpg",
@@ -451,6 +454,7 @@
         },
         "82774a07-04c1-4037-b783-c206dd6204dc": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/Rectangle_10_3.jpg",
