@@ -39,7 +39,7 @@
         "template--19733715058984__cf0f798e-bcf1-487b-bdd3-55fcb23fc9bd-16884839063bf86722-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_12.jpg",
+            "image": "shopify:\/\/shop_images\/0226.jpg",
             "overlay_opacity": 10,
             "text_width": "wide",
             "text_position": "left",
@@ -61,7 +61,7 @@
         "template--19733715058984__cf0f798e-bcf1-487b-bdd3-55fcb23fc9bd-16884839063bf86722-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_23.jpg",
+            "image": "shopify:\/\/shop_images\/Untitled_design_6.png",
             "overlay_opacity": 10,
             "text_width": "wide",
             "text_position": "left",
@@ -83,7 +83,7 @@
         "template--19733715058984__cf0f798e-bcf1-487b-bdd3-55fcb23fc9bd-16884839063bf86722-3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BG_Hero.png",
+            "image": "shopify:\/\/shop_images\/0096.jpg",
             "overlay_opacity": 10,
             "text_width": "wide",
             "text_position": "left",
@@ -106,6 +106,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/woman-holding-coffee-mug.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/233.jpg",
             "overlay_opacity": 10,
             "text_width": "wide",
             "text_position": "left",
