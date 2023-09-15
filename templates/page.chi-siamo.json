@@ -88,17 +88,17 @@
             "button_2_size": "btn--small"
           }
         },
-        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-2": {
+        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_6.png",
-            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_6.png",
+            "image": "shopify:\/\/shop_images\/0096.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/0096.jpg",
             "overlay_opacity": 10,
             "text_width": "wide",
             "text_position": "left",
             "text_color": "text-light",
-            "title": "FITNESS IN LIBERTA’",
-            "text": "Dovunque tu sia e qualunque sia\nl’attrezzatura disponibile, i nostri\nprogrammi ti offriranno sempre una soluzione per allenarti.",
+            "title": "SICUREZZA E SOSTENIBILITA’",
+            "text": "Ti forniremo basi e strumenti per muoverti in sicurezza e raggiungere realmente i tuoi obiettivi in modo semplice e divertente.",
             "button_1_text": "",
             "button_1_link": "",
             "button_1_color": "btn--white",
@@ -111,17 +111,17 @@
             "button_2_size": "btn--small"
           }
         },
-        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-1": {
+        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/0096.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/0096.jpg",
+            "image": "shopify:\/\/shop_images\/Untitled_design_6.png",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_6.png",
             "overlay_opacity": 10,
             "text_width": "wide",
             "text_position": "left",
             "text_color": "text-light",
-            "title": "SICUREZZA E SOSTENIBILITA’",
-            "text": "Ti forniremo basi e strumenti per muoverti in sicurezza e raggiungere realmente i tuoi obiettivi in modo semplice e divertente.",
+            "title": "FITNESS IN LIBERTA’",
+            "text": "Dovunque tu sia e qualunque sia\nl’attrezzatura disponibile, i nostri\nprogrammi ti offriranno sempre una soluzione per allenarti.",
             "button_1_text": "",
             "button_1_link": "",
             "button_1_color": "btn--white",
@@ -160,8 +160,8 @@
       },
       "block_order": [
         "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-0",
-        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-2",
         "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-1",
+        "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-2",
         "template--19829894807848__667f5edd-25f8-4c7e-b9c4-dc5e9a4e7a4f-1688984955d2fb5abc-3"
       ],
       "settings": {
@@ -423,7 +423,7 @@
         "red_text": "Tutto quello che serve per migliorare il tuo aspetto fisico, la tua performance e la tua salute, lo troverai in Mat Fitness.",
         "image_under_text": "shopify:\/\/shop_images\/Matteo_Piran.png",
         "button_text": "Prenota il tuo primo appuntamento",
-        "button_link": "\/pages\/la-palestra#shopify-section-template--19946931126568__af81d050-1061-49c5-940e-51672b6c5802",
+        "button_link": "shopify:\/\/pages\/allenamento-on-line",
         "button_color": "btn--primary",
         "button_style": "btn--solid",
         "button_size": "btn--small",
