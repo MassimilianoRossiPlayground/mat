@@ -369,7 +369,7 @@
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/0137.jpg",
-            "overlay_opacity": 10,
+            "overlay_opacity": 50,
             "text_position": "center",
             "subheading": "",
             "title": "DAILY WORKOUTS",
@@ -386,7 +386,7 @@
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/0153.jpg",
-            "overlay_opacity": 10,
+            "overlay_opacity": 50,
             "text_position": "center",
             "subheading": "",
             "title": "PROGRAMMI EXTRA",
