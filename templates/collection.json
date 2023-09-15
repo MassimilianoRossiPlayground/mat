@@ -62,11 +62,11 @@
         "96343c36-f832-4740-8cd6-2a90dcf9e4d9"
       ],
       "settings": {
-        "show_breadcrumbs": true,
-        "enable_sorting": true,
-        "enable_filters": true,
+        "show_breadcrumbs": false,
+        "enable_sorting": false,
+        "enable_filters": false,
         "filters_layout": "open",
-        "show_more": true,
+        "show_more": false,
         "filter_mode": "default",
         "heading_style": "body",
         "bg_color": "",
