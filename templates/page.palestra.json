@@ -95,7 +95,7 @@
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/0184.jpg",
-            "overlay_opacity": 10,
+            "overlay_opacity": 50,
             "text_position": "center",
             "subheading": "",
             "title": "AUTONOMO",
@@ -112,7 +112,7 @@
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/0000053.jpg",
-            "overlay_opacity": 10,
+            "overlay_opacity": 50,
             "text_position": "center",
             "subheading": "",
             "title": "PICCOLI GRUPPI",
