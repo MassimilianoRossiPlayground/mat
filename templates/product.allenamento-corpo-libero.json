@@ -45,7 +45,7 @@
         "enable_mobile_height": false,
         "mobile_height": "four-fifty-height-mobile",
         "image": "shopify:\/\/shop_images\/0000052_07250397-3efb-4298-bc5d-20bbc800ca46.jpg",
-        "overlay_opacity": 10,
+        "overlay_opacity": 50,
         "enable_zoom_animation": true,
         "text_width": "normal",
         "text_position": "center",
