@@ -28,7 +28,7 @@
     "primary_buttons_color": "#c70102",
     "secondary_buttons_color": "#ffffff",
     "content_alignment": "inline",
-    "products_per_row_on_desktop": 4,
+    "products_per_row_on_desktop": 3,
     "products_per_row_on_mobile": "1",
     "show_gray_bg": false,
     "product_grid_hover": "image",
