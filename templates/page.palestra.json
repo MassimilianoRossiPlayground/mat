@@ -68,7 +68,7 @@
         "b5105e0c-546b-4dca-b7f3-56bf27ad9904": {
           "type": "heading",
           "settings": {
-            "text": "<p>COME FUNZIONA LO STUDIO<\/p>",
+            "text": "<h2>COME FUNZIONA LO STUDIO<\/h2>",
             "size": 100,
             "heading_highlight_type": "italics",
             "highlight_color": "#d43747"
