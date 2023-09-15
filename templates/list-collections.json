@@ -1,1 +1,29 @@
-{"sections":{"main":{"type":"list-collections","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "list-collections",
+      "settings": {
+        "layout": "grid",
+        "alignment": "center",
+        "image_shape": "square",
+        "image_width": 300,
+        "image_height": 100,
+        "title": "PROGRAMMI",
+        "heading_size": 100,
+        "text_size": 110,
+        "overlay_text": false,
+        "layout_mobile": "carousel",
+        "image_width_mobile": 150,
+        "image_height_mobile": 100,
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
