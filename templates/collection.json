@@ -35,6 +35,7 @@
       "blocks": {
         "96343c36-f832-4740-8cd6-2a90dcf9e4d9": {
           "type": "promo",
+          "disabled": true,
           "settings": {
             "collection": "",
             "position": 5,
