@@ -44,23 +44,14 @@
         "63751c8c-57b6-4e0f-9e68-0e52d04adfb9": {
           "type": "subheading",
           "settings": {
-            "text": "<p><strong>IL METODO<\/strong><\/p>",
+            "text": "<h2><strong>LA METODOLOGIA<\/strong><\/h2>",
             "size": 200,
-            "margin_bottom": 16
-          }
-        },
-        "template--19733715058984__70d0eb6b-6142-4ef0-a5e9-86f6550ac6f0-16884838561c5ae39b-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas. Urna sed molestie nunc felis accumsan pellentesque aliquam massa. Lectus pretium cursus condimentum sit consectetur scelerisque ultricies in.<\/p>",
-            "size": 100,
             "margin_bottom": 16
           }
         }
       },
       "block_order": [
-        "63751c8c-57b6-4e0f-9e68-0e52d04adfb9",
-        "template--19733715058984__70d0eb6b-6142-4ef0-a5e9-86f6550ac6f0-16884838561c5ae39b-0"
+        "63751c8c-57b6-4e0f-9e68-0e52d04adfb9"
       ],
       "settings": {
         "text_position": "center",
