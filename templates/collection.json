@@ -15,6 +15,7 @@
     },
     "subcollections": {
       "type": "subcollections",
+      "disabled": true,
       "settings": {
         "subcollections": [
 
