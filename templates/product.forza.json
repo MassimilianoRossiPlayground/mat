@@ -6,15 +6,15 @@
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-0": {
           "type": "subheading",
           "settings": {
-            "text": "<p>Programmi<\/p>",
+            "text": "<p>Programma<\/p>",
             "size": 100
           }
         },
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-1": {
           "type": "heading",
           "settings": {
-            "text": "<p>FORZA<\/p>",
-            "size": 180,
+            "text": "<p>{{ product.title }}<\/p>",
+            "size": 140,
             "heading_highlight_type": "italics",
             "highlight_color": "#d43747"
           }
