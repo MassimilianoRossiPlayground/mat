@@ -2,6 +2,9 @@
   "sections": {
     "main": {
       "type": "list-collections",
+      "custom_css": [
+        "h2 {font-family: \"OPTI-Bold\"; text-transform: lowercase; color: #a60d11;}"
+      ],
       "settings": {
         "layout": "grid",
         "alignment": "center",
