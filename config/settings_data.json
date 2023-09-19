@@ -30,8 +30,6 @@
     "content_alignment": "center",
     "products_per_row_on_desktop": 2,
     "products_per_row_on_mobile": "1",
-    "image_size": "contain",
-    "image_aspect_ratio": 0.6,
     "show_gray_bg": false,
     "product_grid_hover": "none",
     "product_grid_hover_animation": "fade-in",
