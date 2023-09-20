@@ -123,10 +123,9 @@
     },
     "related": {
       "type": "related-products",
-      "disabled": true,
       "settings": {
-        "limit": 4,
-        "product_recommendations_heading": "You May Also Like",
+        "limit": 6,
+        "product_recommendations_heading": "ALTRI PROGRAMMI",
         "bg_color": "",
         "width": "wrapper--full-padded",
         "padding_top": 60,
