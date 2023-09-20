@@ -334,7 +334,7 @@
           "type": "button",
           "settings": {
             "button_text": "Acquista ora",
-            "button_link": "#ProductTemplate--template--20022848913704__main",
+            "button_link": "\/products\/corpo-libero#shopify-section-template--20998232965416__main",
             "button_color": "btn--primary",
             "button_style": "btn--solid",
             "button_size": "btn--small"
