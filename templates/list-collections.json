@@ -15,7 +15,7 @@
         "heading_size": 100,
         "text_size": 110,
         "overlay_text": false,
-        "layout_mobile": "carousel",
+        "layout_mobile": "grid",
         "image_width_mobile": 150,
         "image_height_mobile": 100,
         "bg_color_secondary": false,
