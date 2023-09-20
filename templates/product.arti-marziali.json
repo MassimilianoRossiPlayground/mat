@@ -203,63 +203,12 @@
           "type": "image",
           "settings": {
             "width": "50",
-            "image": "shopify:\/\/shop_images\/0186.jpg",
+            "image": "shopify:\/\/shop_images\/0047.jpg",
             "overlay_opacity": 50,
             "text_position": "center",
             "subheading": "",
-            "title": "BRACCIA PIU’ GROSSE",
-            "text": "Ti piacerebbe riempire di più quelle camicie? Inserisci questi allenamenti nella tua programmazionesettimanale se vuoi finalmente avere \"braccia come cannoni”.Consiglio: integra una o più sessioni a complemento del tuo daily workout. Lascia 1-2 giorni tra una sessione e l’altra.",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "text-light"
-          }
-        },
-        "08c895e0-2f73-426b-802e-b270ba309c0f": {
-          "type": "image",
-          "settings": {
-            "width": "50",
-            "image": "shopify:\/\/shop_images\/0025_caf2b7fd-de3b-4a59-b969-76b01564c0e6.jpg",
-            "overlay_opacity": 50,
-            "text_position": "center",
-            "subheading": "",
-            "title": "SUPER GLUTEI",
-            "text": "22 sessioni concepite per tonificare tutto il corpo, con attenzione particolare a gambe e glutei. Esercizisemplici da fare in palestra, a casa oppure in viaggio, con o senza attrezzatura.",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "text-light"
-          }
-        },
-        "bae8d050-0253-411d-af9f-54943f249626": {
-          "type": "image",
-          "settings": {
-            "width": "50",
-            "image": "shopify:\/\/shop_images\/0000070.jpg",
-            "overlay_opacity": 50,
-            "text_position": "center",
-            "subheading": "",
-            "title": "5\/3\/1 + MODALITA’ MISTA",
-            "text": "Questa è la nostra versione del famosissimo metodo per l’allenamento della forza di Jim Wendler.Semplice, versatile e per questo ripetibile a lungo, è ideale per tutti i livelli di preparazione ed esperienza eper chi non ha molto tempo a disposizioneAbbiamo scelto di proporvelo con il front squat al posto del back squat e di associarlo a dei veloci workoutdi condizionamento in modalità mista.",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "text-light"
-          }
-        },
-        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2": {
-          "type": "image",
-          "settings": {
-            "width": "50",
-            "image": "shopify:\/\/shop_images\/0120.jpg",
-            "overlay_opacity": 50,
-            "text_position": "center",
-            "subheading": "",
-            "title": "METTI SU MUSCOLI",
-            "text": "Questo programma si focalizza sull’ipertrofia muscolare ossia sull’aumento del volume dei muscoli.Ottimo per chi ricerca risultati estetici in breve tempo senza però tralasciare l’allenamento cardio-vascolare.",
+            "title": "FORZA E CONDIZIONAMENTO PER IL BRAZILIAN JIU JITSU",
+            "text": "Un programma di 12 settimane per lo sviluppo della forza e del condizionamento generale per chi desidera portare il proprio Jiu Jitsu ad un livello superiore.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -269,10 +218,7 @@
         }
       },
       "block_order": [
-        "0d9f10d6-aae8-468f-9c5b-c180f372abc4",
-        "08c895e0-2f73-426b-802e-b270ba309c0f",
-        "bae8d050-0253-411d-af9f-54943f249626",
-        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2"
+        "0d9f10d6-aae8-468f-9c5b-c180f372abc4"
       ],
       "settings": {
         "height": "350",
