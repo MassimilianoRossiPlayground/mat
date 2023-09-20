@@ -33,36 +33,6 @@
     },
     "main": {
       "type": "collection",
-      "blocks": {
-        "96343c36-f832-4740-8cd6-2a90dcf9e4d9": {
-          "type": "promo",
-          "disabled": true,
-          "settings": {
-            "collection": "",
-            "position": 5,
-            "width": "half",
-            "title": "<p>Promotion title<\/p>",
-            "heading_highlight_type": "circle",
-            "highlight_color": "#fbcaff",
-            "heading_size": 100,
-            "content": "Advertise a promotion or a sale",
-            "text_size": 100,
-            "text_color": "text-dark",
-            "text_position": "center",
-            "layout": "stacked",
-            "overlay_opacity": 10,
-            "bg_color": "#f5f4f1",
-            "button_text": "",
-            "button_link": "",
-            "button_color": "btn--white",
-            "button_style": "btn--solid-border",
-            "button_size": "btn--small"
-          }
-        }
-      },
-      "block_order": [
-        "96343c36-f832-4740-8cd6-2a90dcf9e4d9"
-      ],
       "settings": {
         "show_breadcrumbs": false,
         "enable_sorting": false,
