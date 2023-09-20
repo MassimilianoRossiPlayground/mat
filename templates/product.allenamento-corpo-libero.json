@@ -44,7 +44,6 @@
         "height": "full-height",
         "enable_mobile_height": false,
         "mobile_height": "four-fifty-height-mobile",
-        "image": "shopify:\/\/shop_images\/0000052_07250397-3efb-4298-bc5d-20bbc800ca46.jpg",
         "overlay_opacity": 50,
         "enable_zoom_animation": true,
         "text_width": "normal",
@@ -163,7 +162,7 @@
       ],
       "settings": {
         "product_sticky_enable": false,
-        "image_layout": "stacked",
+        "image_layout": "carousel",
         "image_width": "standard",
         "product_image_aspect_ratio": true,
         "enable_zoom": false,
