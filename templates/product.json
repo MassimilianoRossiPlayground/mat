@@ -125,7 +125,7 @@
       "type": "related-products",
       "settings": {
         "limit": 6,
-        "product_recommendations_heading": "ALTRI PROGRAMMI",
+        "product_recommendations_heading": "ALTRI ALLENAMENTI",
         "bg_color": "",
         "width": "wrapper--full-padded",
         "padding_top": 60,
