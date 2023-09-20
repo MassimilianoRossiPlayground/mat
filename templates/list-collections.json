@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "list-collections",
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"OPTI-Bold\"; text-transform: lowercase; color: #a60d11;}"
       ],
@@ -23,6 +24,34 @@
         "width": "wrapper",
         "padding_top": 60,
         "padding_bottom": 60
+      }
+    },
+    "7a28e5c1-6d3e-46b9-8f28-7bad21e3c6fd": {
+      "type": "section-text",
+      "blocks": {
+        "ff50ddf1-5581-462f-b092-6eb30ebdc362": {
+          "type": "heading",
+          "settings": {
+            "text": "<h1>Programmi<\/h1>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#D43747"
+          }
+        }
+      },
+      "block_order": [
+        "ff50ddf1-5581-462f-b092-6eb30ebdc362"
+      ],
+      "custom_css": [
+        "h1 {font-family: \"OPTI-Bold\"; text-transform: lowercase; color: #a60d11;}"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 0
       }
     },
     "d1c3f615-4900-4468-a2d1-01050a60e353": {
@@ -87,6 +116,7 @@
   },
   "order": [
     "main",
+    "7a28e5c1-6d3e-46b9-8f28-7bad21e3c6fd",
     "d1c3f615-4900-4468-a2d1-01050a60e353"
   ]
 }
