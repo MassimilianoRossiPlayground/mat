@@ -86,6 +86,16 @@
             "padding_bottom": 20
           }
         },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": false,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": true,
+            "padding_bottom": 20
+          }
+        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -99,16 +109,6 @@
           "settings": {
             "max_inventory": 10,
             "hide_inventory_count": true,
-            "padding_bottom": 20
-          }
-        },
-        "form": {
-          "type": "form",
-          "settings": {
-            "show_labels": true,
-            "show_quantity": false,
-            "show_payment_button": true,
-            "enable_subscriptions_selectors": true,
             "padding_bottom": 20
           }
         },
@@ -175,9 +175,9 @@
       },
       "block_order": [
         "title",
+        "form",
         "description",
         "inventory_countdown",
-        "form",
         "7ddd2db6-1d92-43ee-a7d9-e786662f9ced",
         "product_accordions",
         "a42f4e7d-6a8d-42a4-80af-29ec3b3b52d9",
@@ -221,7 +221,7 @@
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/Untitleddesign_5.png",
-            "overlay_opacity": 10,
+            "overlay_opacity": 50,
             "text_position": "center",
             "subheading": "",
             "title": "IL SIGNORE DEGLI ANELLI: OTTIENI IL TUO PRIMO RING DIP",
@@ -238,7 +238,7 @@
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/0035.jpg",
-            "overlay_opacity": 10,
+            "overlay_opacity": 50,
             "text_position": "center",
             "subheading": "",
             "title": "6 SESSIONI PER ADDOMINALI D'ACCIAIO",
@@ -401,6 +401,7 @@
         "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-2",
         "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-3"
       ],
+      "disabled": true,
       "settings": {
         "height": "original-height",
         "enable_mobile_height": false,
@@ -429,6 +430,7 @@
       "block_order": [
         "dcf373e6-8a03-4285-a120-04409f87906a"
       ],
+      "disabled": true,
       "settings": {
         "text_position": "center",
         "bg_color_secondary": false,
@@ -552,6 +554,7 @@
         "6714daee-2464-46ae-80a7-5758339240c7",
         "478c65a3-4396-4a3a-93c2-5646a4313b08"
       ],
+      "disabled": true,
       "settings": {
         "height": "450",
         "heading_size": 130,
