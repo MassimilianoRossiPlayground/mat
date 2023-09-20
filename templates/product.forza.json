@@ -44,12 +44,34 @@
         "height": "full-height",
         "enable_mobile_height": false,
         "mobile_height": "four-fifty-height-mobile",
-        "image": "shopify:\/\/shop_images\/0169_46afcf83-2fe6-4efd-8ab4-46b269f6801d.jpg",
         "overlay_opacity": 50,
         "enable_zoom_animation": true,
         "text_width": "normal",
         "text_position": "center",
         "text_color": "text-light"
+      }
+    },
+    "b3a6b747-09ac-44b5-a818-d8873a2c6316": {
+      "type": "section-text",
+      "blocks": {
+        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Scegli la tua variante del<br\/>PROGRAMMA FORZA.<\/h2>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     },
     "main": {
@@ -61,6 +83,16 @@
             "subheading": "none",
             "show_rating": false,
             "show_rating_count": false,
+            "padding_bottom": 20
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": false,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": true,
             "padding_bottom": 20
           }
         },
@@ -77,16 +109,6 @@
           "settings": {
             "max_inventory": 10,
             "hide_inventory_count": true,
-            "padding_bottom": 20
-          }
-        },
-        "form": {
-          "type": "form",
-          "settings": {
-            "show_labels": true,
-            "show_quantity": false,
-            "show_payment_button": true,
-            "enable_subscriptions_selectors": true,
             "padding_bottom": 20
           }
         },
@@ -153,17 +175,17 @@
       },
       "block_order": [
         "title",
+        "form",
         "description",
         "inventory_countdown",
-        "form",
         "7ddd2db6-1d92-43ee-a7d9-e786662f9ced",
         "product_accordions",
         "a42f4e7d-6a8d-42a4-80af-29ec3b3b52d9",
         "upsell"
       ],
       "settings": {
-        "product_sticky_enable": false,
-        "image_layout": "stacked",
+        "product_sticky_enable": true,
+        "image_layout": "carousel",
         "image_width": "standard",
         "product_image_aspect_ratio": true,
         "enable_zoom": false,
@@ -174,59 +196,19 @@
         "padding_bottom": 60
       }
     },
-    "b3a6b747-09ac-44b5-a818-d8873a2c6316": {
-      "type": "section-text",
-      "blocks": {
-        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas. Urna sed molestie nunc felis accumsan pellentesque aliquam massa. Lectus pretium cursus condimentum sit consectetur scelerisque ultricies in.<\/p>",
-            "size": 100
-          }
-        }
-      },
-      "block_order": [
-        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2"
-      ],
-      "settings": {
-        "text_position": "center",
-        "bg_color_secondary": false,
-        "text_color": "text-light",
-        "width": "wrapper--narrow",
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "6024c892-8ac7-4365-a286-b59d8c935cee": {
       "type": "section-grid",
       "blocks": {
-        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2": {
-          "type": "image",
-          "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
-            "overlay_opacity": 10,
-            "text_position": "center",
-            "subheading": "1.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "text-light"
-          }
-        },
         "0d9f10d6-aae8-468f-9c5b-c180f372abc4": {
           "type": "image",
           "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0186.jpg",
             "overlay_opacity": 10,
             "text_position": "center",
-            "subheading": "2.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
+            "subheading": "",
+            "title": "BRACCIA PIU’ GROSSE",
+            "text": "Ti piacerebbe riempire di più quelle camicie? Inserisci questi allenamenti nella tua programmazionesettimanale se vuoi finalmente avere \"braccia come cannoni”.Consiglio: integra una o più sessioni a complemento del tuo daily workout. Lascia 1-2 giorni tra una sessione e l’altra.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -237,13 +219,13 @@
         "08c895e0-2f73-426b-802e-b270ba309c0f": {
           "type": "image",
           "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0025_caf2b7fd-de3b-4a59-b969-76b01564c0e6.jpg",
             "overlay_opacity": 10,
             "text_position": "center",
-            "subheading": "3.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
+            "subheading": "",
+            "title": "SUPER GLUTEI",
+            "text": "22 sessioni concepite per tonificare tutto il corpo, con attenzione particolare a gambe e glutei. Esercizisemplici da fare in palestra, a casa oppure in viaggio, con o senza attrezzatura.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -254,13 +236,13 @@
         "bae8d050-0253-411d-af9f-54943f249626": {
           "type": "image",
           "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0000070.jpg",
             "overlay_opacity": 10,
             "text_position": "center",
-            "subheading": "4.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
+            "subheading": "",
+            "title": "5\/3\/1 + MODALITA’ MISTA",
+            "text": "Questa è la nostra versione del famosissimo metodo per l’allenamento della forza di Jim Wendler.Semplice, versatile e per questo ripetibile a lungo, è ideale per tutti i livelli di preparazione ed esperienza eper chi non ha molto tempo a disposizioneAbbiamo scelto di proporvelo con il front squat al posto del back squat e di associarlo a dei veloci workoutdi condizionamento in modalità mista.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -268,33 +250,16 @@
             "text_color": "text-light"
           }
         },
-        "dd8753d1-0b1e-4610-b824-6a5f63a78129": {
+        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2": {
           "type": "image",
           "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0120.jpg",
             "overlay_opacity": 10,
             "text_position": "center",
-            "subheading": "5.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": "",
-            "text_color": "text-light"
-          }
-        },
-        "c0197ca4-f8fa-40e6-9839-de263663968f": {
-          "type": "image",
-          "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
-            "overlay_opacity": 10,
-            "text_position": "center",
-            "subheading": "6.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
+            "subheading": "1.",
+            "title": "METTI SU MUSCOLI",
+            "text": "Questo programma si focalizza sull’ipertrofia muscolare ossia sull’aumento del volume dei muscoli.Ottimo per chi ricerca risultati estetici in breve tempo senza però tralasciare l’allenamento cardio-vascolare.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -304,12 +269,10 @@
         }
       },
       "block_order": [
-        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2",
         "0d9f10d6-aae8-468f-9c5b-c180f372abc4",
         "08c895e0-2f73-426b-802e-b270ba309c0f",
         "bae8d050-0253-411d-af9f-54943f249626",
-        "dd8753d1-0b1e-4610-b824-6a5f63a78129",
-        "c0197ca4-f8fa-40e6-9839-de263663968f"
+        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2"
       ],
       "settings": {
         "height": "350",
@@ -585,8 +548,8 @@
   },
   "order": [
     "0c8748de-69c5-48bf-92a1-6a856f9579de",
-    "main",
     "b3a6b747-09ac-44b5-a818-d8873a2c6316",
+    "main",
     "6024c892-8ac7-4365-a286-b59d8c935cee",
     "8c6762fe-1c4c-4105-8575-6836f7762854",
     "1ebb5a05-7069-460a-a043-63d41c7da96a",
