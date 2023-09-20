@@ -204,7 +204,7 @@
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/0186.jpg",
-            "overlay_opacity": 10,
+            "overlay_opacity": 50,
             "text_position": "center",
             "subheading": "",
             "title": "BRACCIA PIU’ GROSSE",
@@ -221,7 +221,7 @@
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/0025_caf2b7fd-de3b-4a59-b969-76b01564c0e6.jpg",
-            "overlay_opacity": 10,
+            "overlay_opacity": 50,
             "text_position": "center",
             "subheading": "",
             "title": "SUPER GLUTEI",
@@ -238,7 +238,7 @@
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/0000070.jpg",
-            "overlay_opacity": 10,
+            "overlay_opacity": 50,
             "text_position": "center",
             "subheading": "",
             "title": "5\/3\/1 + MODALITA’ MISTA",
@@ -255,9 +255,9 @@
           "settings": {
             "width": "50",
             "image": "shopify:\/\/shop_images\/0120.jpg",
-            "overlay_opacity": 10,
+            "overlay_opacity": 50,
             "text_position": "center",
-            "subheading": "1.",
+            "subheading": "",
             "title": "METTI SU MUSCOLI",
             "text": "Questo programma si focalizza sull’ipertrofia muscolare ossia sull’aumento del volume dei muscoli.Ottimo per chi ricerca risultati estetici in breve tempo senza però tralasciare l’allenamento cardio-vascolare.",
             "button_1_text": "",
