@@ -31,6 +31,29 @@
         "padding_bottom": 14
       }
     },
+    "2a25bfd4-ec5c-44ce-84a0-45e1a860c64c": {
+      "type": "section-text",
+      "blocks": {
+        "template--19946931355944__2a25bfd4-ec5c-44ce-84a0-45e1a860c64c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>L’abbonamento ai Daily Workout darà accesso non solo ai workout, che verranno inviati settimanalmente all’utente via mail, ma anche a:<\/p><ul><li>Consulenza iniziale con uno dei Coach MAT<\/li><li>Programma extra Mobility Base (Sempre)<\/li><li>Prova mensile ad un programma Extra<\/li><li>Library dei movimenti<\/li><li>Accesso a Gruppo chiuso Community MAT<\/li><li>Attività extra organizzate da MAT<\/li><\/ul>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--19946931355944__2a25bfd4-ec5c-44ce-84a0-45e1a860c64c-text-1"
+      ],
+      "settings": {
+        "text_position": "left",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
     "main": {
       "type": "collection",
       "settings": {
@@ -50,6 +73,7 @@
   "order": [
     "hero",
     "subcollections",
+    "2a25bfd4-ec5c-44ce-84a0-45e1a860c64c",
     "main"
   ]
 }
