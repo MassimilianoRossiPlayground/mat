@@ -298,7 +298,7 @@
           "type": "button",
           "settings": {
             "button_text": "Acquista ora",
-            "button_link": "#ProductTemplate--template--20022848913704__main",
+            "button_link": "\/products\/forza#shopify-section-template--19946930962728__main",
             "button_color": "btn--primary",
             "button_style": "btn--solid",
             "button_size": "btn--small"
@@ -393,6 +393,7 @@
       "block_order": [
         "dcf373e6-8a03-4285-a120-04409f87906a"
       ],
+      "disabled": true,
       "settings": {
         "text_position": "center",
         "bg_color_secondary": false,
@@ -516,6 +517,7 @@
         "6714daee-2464-46ae-80a7-5758339240c7",
         "478c65a3-4396-4a3a-93c2-5646a4313b08"
       ],
+      "disabled": true,
       "settings": {
         "height": "450",
         "heading_size": 130,
