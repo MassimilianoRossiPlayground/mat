@@ -365,6 +365,7 @@
         "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-2",
         "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-3"
       ],
+      "disabled": true,
       "settings": {
         "height": "original-height",
         "enable_mobile_height": false,
