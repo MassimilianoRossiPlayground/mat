@@ -51,6 +51,29 @@
         "text_color": "text-light"
       }
     },
+    "b3a6b747-09ac-44b5-a818-d8873a2c6316": {
+      "type": "section-text",
+      "blocks": {
+        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas. Urna sed molestie nunc felis accumsan pellentesque aliquam massa. Lectus pretium cursus condimentum sit consectetur scelerisque ultricies in.<\/p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "main": {
       "type": "product",
       "blocks": {
@@ -173,42 +196,19 @@
         "padding_bottom": 60
       }
     },
-    "b3a6b747-09ac-44b5-a818-d8873a2c6316": {
-      "type": "section-text",
-      "blocks": {
-        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet consectetur. Vestibulum proin in iaculis nullam nisi neque id purus eleifend. Suscipit justo mi faucibus neque bibendum eget ipsum sed egestas. Urna sed molestie nunc felis accumsan pellentesque aliquam massa. Lectus pretium cursus condimentum sit consectetur scelerisque ultricies in.<\/p>",
-            "size": 100
-          }
-        }
-      },
-      "block_order": [
-        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2"
-      ],
-      "settings": {
-        "text_position": "center",
-        "bg_color_secondary": false,
-        "text_color": "text-light",
-        "width": "wrapper--narrow",
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "6024c892-8ac7-4365-a286-b59d8c935cee": {
       "type": "section-grid",
       "blocks": {
         "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2": {
           "type": "image",
           "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
-            "overlay_opacity": 10,
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0062.jpg",
+            "overlay_opacity": 50,
             "text_position": "center",
-            "subheading": "1.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
+            "subheading": "",
+            "title": "OTTIENI IL TUO PRIMO PULL UP",
+            "text": "Questo programma da 3 sedute a settimana ti guiderà verso la tua prima trazione alla sbarra. Potraiabbinarlo all'allenamento del giorno e ripeterlo più volte fino al raggiungimento di questo ambitotraguardo.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -219,13 +219,13 @@
         "0d9f10d6-aae8-468f-9c5b-c180f372abc4": {
           "type": "image",
           "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Untitleddesign_5.png",
             "overlay_opacity": 10,
             "text_position": "center",
-            "subheading": "2.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
+            "subheading": "",
+            "title": "IL SIGNORE DEGLI ANELLI: OTTIENI IL TUO PRIMO RING DIP",
+            "text": "Il programma da 3 sessioni a settimana per 7 settimane che vi permetterà di ottenere il primo dip aglianelli.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -236,13 +236,13 @@
         "08c895e0-2f73-426b-802e-b270ba309c0f": {
           "type": "image",
           "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0035.jpg",
             "overlay_opacity": 10,
             "text_position": "center",
-            "subheading": "3.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
+            "subheading": "",
+            "title": "6 SESSIONI PER ADDOMINALI D'ACCIAIO",
+            "text": "6 veloci sessioni d’allenamento per il core da utilizzare come finisher oppure integrate alla tua routine.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -253,13 +253,13 @@
         "bae8d050-0253-411d-af9f-54943f249626": {
           "type": "image",
           "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
-            "overlay_opacity": 10,
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0000104.jpg",
+            "overlay_opacity": 50,
             "text_position": "center",
-            "subheading": "4.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
+            "subheading": "",
+            "title": "24 WORKOUT A CORPO LIBERO",
+            "text": "24 workout a corpo libero per allenarti dove e quando vuoi. Portali con te in vacanza o durante il tuoviaggio di lavoro ed avrai un motivo in più per non interrompere la tua routine giornaliera.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -270,13 +270,13 @@
         "dd8753d1-0b1e-4610-b824-6a5f63a78129": {
           "type": "image",
           "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
-            "overlay_opacity": 10,
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0009.jpg",
+            "overlay_opacity": 50,
             "text_position": "center",
-            "subheading": "5.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
+            "subheading": "",
+            "title": "UN MONDO DI AFFONDI",
+            "text": "Vuoi focalizzare il tuo allenamento sulle gambe, lavorando in modo unilaterale per colmare eventualisquilibri di forza e coordinazione? oppure vuoi semplicemente sviluppare gambe e glutei più tonici? provaqueste 10 sessioni.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -287,13 +287,13 @@
         "c0197ca4-f8fa-40e6-9839-de263663968f": {
           "type": "image",
           "settings": {
-            "width": "33.33",
-            "image": "shopify:\/\/shop_images\/Rectangle_10_7.jpg",
-            "overlay_opacity": 10,
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0038.jpg",
+            "overlay_opacity": 50,
             "text_position": "center",
-            "subheading": "6.",
-            "title": "LOREM IPSUM",
-            "text": "Add more info or delete this text",
+            "subheading": "",
+            "title": "IL TUO PRIMO PUSH UP",
+            "text": "Quattro sessioni da ripetere per rinforzare tutta la muscolatura della parte superiore del corpo alla ricercadel tuo primo push up.Associa questo lavoro specifico come attivazione da eseguire prima dell’allenamento o eseguilo da soli.Ripeti il programma per tre settimane consecutive. Usa la quarta settimana per provare a conquistare il tuoprimo push up.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -584,8 +584,8 @@
   },
   "order": [
     "0c8748de-69c5-48bf-92a1-6a856f9579de",
-    "main",
     "b3a6b747-09ac-44b5-a818-d8873a2c6316",
+    "main",
     "6024c892-8ac7-4365-a286-b59d8c935cee",
     "8c6762fe-1c4c-4105-8575-6836f7762854",
     "1ebb5a05-7069-460a-a043-63d41c7da96a",
