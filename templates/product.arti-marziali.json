@@ -1,0 +1,563 @@
+{
+  "sections": {
+    "0c8748de-69c5-48bf-92a1-6a856f9579de": {
+      "type": "section-banner-image",
+      "blocks": {
+        "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Programma<\/p>",
+            "size": 100
+          }
+        },
+        "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>{{ product.title }}<\/p>",
+            "size": 140,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        },
+        "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3": {
+          "type": "button",
+          "settings": {
+            "button_1_text": "Scopri il programma",
+            "button_1_link": "\/products\/forza#shopify-section-template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--outline",
+            "button_1_size": "btn--small",
+            "button_2_text": "Acquista ora",
+            "button_2_link": "\/products\/forza#shopify-section-template--19946930962728__main",
+            "button_2_color": "btn--primary",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-0",
+        "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-1",
+        "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3"
+      ],
+      "settings": {
+        "height": "full-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "overlay_opacity": 50,
+        "enable_zoom_animation": true,
+        "text_width": "normal",
+        "text_position": "center",
+        "text_color": "text-light"
+      }
+    },
+    "b3a6b747-09ac-44b5-a818-d8873a2c6316": {
+      "type": "section-text",
+      "blocks": {
+        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Scegli la tua variante del<br\/>PROGRAMMA FORZA.<\/h2>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__b3a6b747-09ac-44b5-a818-d8873a2c6316-168968349248a3dbdb-2"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "show_rating": false,
+            "show_rating_count": false,
+            "padding_bottom": 20
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": false,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": true,
+            "padding_bottom": 20
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
+        "inventory_countdown": {
+          "type": "inventory_countdown",
+          "disabled": true,
+          "settings": {
+            "max_inventory": 10,
+            "hide_inventory_count": true,
+            "padding_bottom": 20
+          }
+        },
+        "7ddd2db6-1d92-43ee-a7d9-e786662f9ced": {
+          "type": "icon",
+          "disabled": true,
+          "settings": {
+            "icon_name": "eco-friendly",
+            "icon_color": "",
+            "icon_width": 20,
+            "icon_text": "Highlight or Feature",
+            "text_size": 90,
+            "width": "full",
+            "text_alignment": "left",
+            "bg_color": "",
+            "padding_bottom": 20
+          }
+        },
+        "product_accordions": {
+          "type": "product_accordions",
+          "disabled": true,
+          "settings": {
+            "accordion_heading_1": "Materials and specs",
+            "accordion_text_1": "<p>Use this accordion to add info such as Materials, Sizing, Features, Shipping and Returns policies<\/p>",
+            "accordion_page_1": "",
+            "accordion_heading_2": "Shipping and returns",
+            "accordion_text_2": "<p>Use this accordion to add info such as Materials, Sizing, Features, Shipping and Returns policies<\/p>",
+            "accordion_page_2": "",
+            "accordion_heading_3": "",
+            "accordion_text_3": "",
+            "accordion_page_3": "",
+            "accordion_heading_4": "",
+            "accordion_text_4": "",
+            "accordion_page_4": "",
+            "accordion_heading_5": "",
+            "accordion_text_5": "",
+            "accordion_page_5": "",
+            "padding_bottom": 20
+          }
+        },
+        "a42f4e7d-6a8d-42a4-80af-29ec3b3b52d9": {
+          "type": "feature",
+          "disabled": true,
+          "settings": {
+            "icon_name": "support",
+            "icon_width": 25,
+            "title": "Need help with sizing?",
+            "text": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
+            "bg_color": "#f7f9fa",
+            "text_color": "#000000",
+            "padding_bottom": 20
+          }
+        },
+        "upsell": {
+          "type": "upsell",
+          "disabled": true,
+          "settings": {
+            "product_list": [
+
+            ],
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "form",
+        "description",
+        "inventory_countdown",
+        "7ddd2db6-1d92-43ee-a7d9-e786662f9ced",
+        "product_accordions",
+        "a42f4e7d-6a8d-42a4-80af-29ec3b3b52d9",
+        "upsell"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "carousel",
+        "image_width": "standard",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": false,
+        "enable_video_looping": false,
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "6024c892-8ac7-4365-a286-b59d8c935cee": {
+      "type": "section-grid",
+      "blocks": {
+        "0d9f10d6-aae8-468f-9c5b-c180f372abc4": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0186.jpg",
+            "overlay_opacity": 50,
+            "text_position": "center",
+            "subheading": "",
+            "title": "BRACCIA PIU’ GROSSE",
+            "text": "Ti piacerebbe riempire di più quelle camicie? Inserisci questi allenamenti nella tua programmazionesettimanale se vuoi finalmente avere \"braccia come cannoni”.Consiglio: integra una o più sessioni a complemento del tuo daily workout. Lascia 1-2 giorni tra una sessione e l’altra.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "08c895e0-2f73-426b-802e-b270ba309c0f": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0025_caf2b7fd-de3b-4a59-b969-76b01564c0e6.jpg",
+            "overlay_opacity": 50,
+            "text_position": "center",
+            "subheading": "",
+            "title": "SUPER GLUTEI",
+            "text": "22 sessioni concepite per tonificare tutto il corpo, con attenzione particolare a gambe e glutei. Esercizisemplici da fare in palestra, a casa oppure in viaggio, con o senza attrezzatura.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "bae8d050-0253-411d-af9f-54943f249626": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0000070.jpg",
+            "overlay_opacity": 50,
+            "text_position": "center",
+            "subheading": "",
+            "title": "5\/3\/1 + MODALITA’ MISTA",
+            "text": "Questa è la nostra versione del famosissimo metodo per l’allenamento della forza di Jim Wendler.Semplice, versatile e per questo ripetibile a lungo, è ideale per tutti i livelli di preparazione ed esperienza eper chi non ha molto tempo a disposizioneAbbiamo scelto di proporvelo con il front squat al posto del back squat e di associarlo a dei veloci workoutdi condizionamento in modalità mista.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0120.jpg",
+            "overlay_opacity": 50,
+            "text_position": "center",
+            "subheading": "",
+            "title": "METTI SU MUSCOLI",
+            "text": "Questo programma si focalizza sull’ipertrofia muscolare ossia sull’aumento del volume dei muscoli.Ottimo per chi ricerca risultati estetici in breve tempo senza però tralasciare l’allenamento cardio-vascolare.",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "0d9f10d6-aae8-468f-9c5b-c180f372abc4",
+        "08c895e0-2f73-426b-802e-b270ba309c0f",
+        "bae8d050-0253-411d-af9f-54943f249626",
+        "template--19946930962728__6024c892-8ac7-4365-a286-b59d8c935cee-image-2"
+      ],
+      "settings": {
+        "height": "350",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "8c6762fe-1c4c-4105-8575-6836f7762854": {
+      "type": "section-text",
+      "blocks": {
+        "template--19946930962728__8c6762fe-1c4c-4105-8575-6836f7762854-button-1": {
+          "type": "button",
+          "settings": {
+            "button_text": "Acquista ora",
+            "button_link": "\/products\/forza#shopify-section-template--19946930962728__main",
+            "button_color": "btn--primary",
+            "button_style": "btn--solid",
+            "button_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__8c6762fe-1c4c-4105-8575-6836f7762854-button-1"
+      ],
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "1ebb5a05-7069-460a-a043-63d41c7da96a": {
+      "type": "section-banner-image",
+      "blocks": {
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>Welcome to<\/p>",
+            "size": 100
+          }
+        },
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>UNISCITI A NOI<\/p>",
+            "size": 180,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        },
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand, describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "size": 100
+          }
+        },
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-3": {
+          "type": "button",
+          "settings": {
+            "button_1_text": "Acquista ora",
+            "button_1_link": "#FeaturedMedia-template--19946930962728__main-35572952432936",
+            "button_1_color": "btn--secondary",
+            "button_1_style": "btn--solid",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--small"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-0",
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-1",
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-2",
+        "template--19946930962728__1ebb5a05-7069-460a-a043-63d41c7da96a-16896836699962ee7c-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "image": "shopify:\/\/shop_images\/BG_1.jpg",
+        "overlay_opacity": 10,
+        "enable_zoom_animation": true,
+        "text_width": "normal",
+        "text_position": "center",
+        "text_color": "text-light"
+      }
+    },
+    "16206330-83fc-4382-b04f-469ed6fd2fbe": {
+      "type": "section-text",
+      "blocks": {
+        "dcf373e6-8a03-4285-a120-04409f87906a": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>ALTRI PROGRAMMI<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747"
+          }
+        }
+      },
+      "block_order": [
+        "dcf373e6-8a03-4285-a120-04409f87906a"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_position": "center",
+        "bg_color_secondary": false,
+        "text_color": "text-light",
+        "width": "wrapper--narrow",
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
+    "028653f2-4c83-4a87-807e-76b006e9ed45": {
+      "type": "section-grid",
+      "blocks": {
+        "2ddb254f-37f1-48a6-84a0-3cb403e76b49": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/BG_Hero.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "FORZA",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "template--19946930962728__028653f2-4c83-4a87-807e-76b006e9ed45-1689683776b0acc7e2-0": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_8c9f6865-818a-409c-b999-63c6bebd0cfc.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "CAPACITÀ AEROBICA",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "a28ba560-9743-424a-bd74-d8125c3ac5c3": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_1.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "FLESSIBILITÀ E MOBILIT",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "f45748b5-5eb3-42df-9417-9ed36b989362": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_c79f5f96-c82c-42c8-b2f7-32c3121b12a9.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "KETTLEBELL",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "6714daee-2464-46ae-80a7-5758339240c7": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_2.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "CORPO LIBERO",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        },
+        "478c65a3-4396-4a3a-93c2-5646a4313b08": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/Rectangle_10_3.jpg",
+            "overlay_opacity": 10,
+            "text_position": "center",
+            "subheading": "",
+            "title": "FONDAMENTALI",
+            "text": "Add more info or delete this text",
+            "button_1_text": "ACQUISTA ORA",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "2ddb254f-37f1-48a6-84a0-3cb403e76b49",
+        "template--19946930962728__028653f2-4c83-4a87-807e-76b006e9ed45-1689683776b0acc7e2-0",
+        "a28ba560-9743-424a-bd74-d8125c3ac5c3",
+        "f45748b5-5eb3-42df-9417-9ed36b989362",
+        "6714daee-2464-46ae-80a7-5758339240c7",
+        "478c65a3-4396-4a3a-93c2-5646a4313b08"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "450",
+        "heading_size": 130,
+        "button_1_color": "btn--primary",
+        "button_1_style": "btn--solid",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "limit": 4,
+        "product_recommendations_heading": "POTREBBE INTERESSARTI",
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "0c8748de-69c5-48bf-92a1-6a856f9579de",
+    "b3a6b747-09ac-44b5-a818-d8873a2c6316",
+    "main",
+    "6024c892-8ac7-4365-a286-b59d8c935cee",
+    "8c6762fe-1c4c-4105-8575-6836f7762854",
+    "1ebb5a05-7069-460a-a043-63d41c7da96a",
+    "16206330-83fc-4382-b04f-469ed6fd2fbe",
+    "028653f2-4c83-4a87-807e-76b006e9ed45",
+    "related"
+  ]
+}
