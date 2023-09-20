@@ -12,6 +12,12 @@
             "padding_bottom": 20
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+            "padding_bottom": 20
+          }
+        },
         "form": {
           "type": "form",
           "settings": {
@@ -19,13 +25,6 @@
             "show_quantity": false,
             "show_payment_button": true,
             "enable_subscriptions_selectors": true,
-            "padding_bottom": 20
-          }
-        },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
             "padding_bottom": 20
           }
         },
@@ -101,8 +100,8 @@
       },
       "block_order": [
         "title",
-        "form",
         "description",
+        "form",
         "inventory_countdown",
         "7ddd2db6-1d92-43ee-a7d9-e786662f9ced",
         "product_accordions",
