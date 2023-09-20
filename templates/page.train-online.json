@@ -260,8 +260,8 @@
         "template--19946930798888__8b50d591-a156-41f6-bd7d-507e453c576f-button-1": {
           "type": "button",
           "settings": {
-            "button_text": "SCOPRI I NOSTRIPROGRAMMI",
-            "button_link": "#",
+            "button_text": "SCOPRI I NOSTRI PROGRAMMI",
+            "button_link": "\/pages\/allenamento-on-line#shopify-section-template--19946930798888__f321936e-1880-488d-a668-af550a843052",
             "button_color": "btn--primary",
             "button_style": "btn--solid",
             "button_size": "btn--small"
