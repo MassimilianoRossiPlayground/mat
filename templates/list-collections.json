@@ -24,9 +24,69 @@
         "padding_top": 60,
         "padding_bottom": 60
       }
+    },
+    "d1c3f615-4900-4468-a2d1-01050a60e353": {
+      "type": "section-grid",
+      "blocks": {
+        "template--19946930897192__d1c3f615-4900-4468-a2d1-01050a60e353-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0137.jpg",
+            "overlay_opacity": 50,
+            "text_position": "center",
+            "subheading": "",
+            "title": "DAILY WORKOUTS",
+            "text": "Tutti gli iscritti a MAT avranno accesso agli allenamenti quotidiani, programmati 6 giorni a settimana, differenziati sulla base dell’equipment disponibile e alle esigenze delle persone.",
+            "button_1_text": "Scopri di più",
+            "button_1_link": "shopify:\/\/collections\/daily-workouts",
+            "button_2_text": "",
+            "button_2_link": "shopify:\/\/collections\/daily-workouts",
+            "text_color": "text-light"
+          }
+        },
+        "template--19946930897192__d1c3f615-4900-4468-a2d1-01050a60e353-image-2": {
+          "type": "image",
+          "settings": {
+            "width": "50",
+            "image": "shopify:\/\/shop_images\/0153.jpg",
+            "overlay_opacity": 50,
+            "text_position": "center",
+            "subheading": "",
+            "title": "PROGRAMMI EXTRA",
+            "text": "Programmi specifici per chi desidera sviluppare alcune skills, approcciare diverse tipologie di allenamento o semplicemente per variare il proprio daily training.",
+            "button_1_text": "Scopri di più",
+            "button_1_link": "shopify:\/\/collections\/programmi-extra",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "template--19946930897192__d1c3f615-4900-4468-a2d1-01050a60e353-image-1",
+        "template--19946930897192__d1c3f615-4900-4468-a2d1-01050a60e353-image-2"
+      ],
+      "settings": {
+        "height": "550",
+        "heading_size": 130,
+        "button_1_color": "btn--primary",
+        "button_1_style": "btn--solid",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "bg_color_secondary": false,
+        "enable_slider_mobile": true,
+        "width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "d1c3f615-4900-4468-a2d1-01050a60e353"
   ]
 }
