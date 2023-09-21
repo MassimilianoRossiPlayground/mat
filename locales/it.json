@@ -38,7 +38,8 @@
       "product_image_lightbox": "Apri lightbox dell'immagine",
       "star_reviews_info": "{{ rating_value }} su {{ rating_max }} stelle",
       "close_form_message": "Chiudi il messaggio di ringraziamento",
-      "scroll_to_top": "Scorri verso l'alto"
+      "scroll_to_top": "Scorri verso l'alto",
+      "quick_tip": ""
     },
     "meta": {
       "tags": "Tag utilizzati \"{{ tags }}\"",
@@ -175,13 +176,13 @@
       "checkout": "Pagamento",
       "empty": "Il tuo carrello è attualmente vuoto.",
       "accept_terms": "Devi accettare i nostri termini e condizioni.",
-      "accepted_terms": "Termini/condizioni accettati?",
+      "accepted_terms": "Termini\/condizioni accettati?",
       "zero_qty_error": "La quantità deve essere maggiore di 0.",
       "limit_error": "Apparentemente non abbiamo scorte sufficienti di questo prodotto.",
       "continue_shopping": "Continua ad acquistare",
       "close_cart": "Chiudi carrello",
       "free_shipping_message_html": "Spendi <span data-free-shipping-amount=\"\">{{ amount }}<\/span> per poter usufruire della spedizione gratuita",
-      "qualified_shipping_message": "Congratulazioni! Il tuo ordine è idoneo alla spedizione gratuita"
+      "qualified_shipping_message": "Grazie! Prosegui per il checkout, o aggiungi altri programmi di allenamento."
     },
     "label": {
       "product": "Prodotto",
