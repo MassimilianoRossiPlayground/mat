@@ -9666,6 +9666,14 @@ body:has(.site-header[data-transparent=true]):has(.main-content > .supports-tran
 .footer-copyright {
   font-size: calc(0.75rem * var(--adjust-body));
 }
+@media screen and (max-width: 768px) {
+  .footer-copyright {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+}
 .footer-copyright a {
   color: inherit;
 }
