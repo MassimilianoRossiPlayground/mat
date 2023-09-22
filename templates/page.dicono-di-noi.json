@@ -70,6 +70,9 @@
     },
     "bb3572ad-1737-47de-bc93-c8ad92edff40": {
       "type": "section-image-with-text",
+      "custom_css": [
+        ".background-size-cover.image-with-text__image-bg.aos-init.lazyloaded.aos-animate {background-position: top center !important;}"
+      ],
       "settings": {
         "section_height": "full-height",
         "layout": "inline",
