@@ -27,7 +27,7 @@
         "template--19750317359400__523b43e6-db34-466d-9090-704a3b8ae760-168856619626a8e0de-1"
       ],
       "custom_css": [
-        "span.text-highlight__break {white-space: nowrap;}"
+        "h1 {white-space: nowrap;}"
       ],
       "settings": {
         "height": "full-height",
