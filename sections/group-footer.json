@@ -27,6 +27,7 @@
         "show_social_links": false,
         "show_payment_icons": false,
         "bottom_menu": "footer",
+        "bottom_menu_2": "footer-menu-2",
         "color_text": "#000000",
         "color_bg": "#ffffff",
         "color_border": "#d02e2e",
