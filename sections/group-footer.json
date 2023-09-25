@@ -24,7 +24,7 @@
       "settings": {
         "width": "wrapper",
         "show_footer_wave": false,
-        "show_social_links": false,
+        "show_social_links": true,
         "show_payment_icons": false,
         "bottom_menu": "footer",
         "bottom_menu_2": "footer-menu-2",
