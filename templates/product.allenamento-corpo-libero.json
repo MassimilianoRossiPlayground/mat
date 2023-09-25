@@ -19,6 +19,13 @@
             "highlight_color": "#d43747"
           }
         },
+        "7bba95bf-7aff-46ce-bcdd-aba0d94e75c9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>SCEGLI IL PROGRAMMA da eseguire a CORPO LIBERO più adatto alle tue esigenze.<\/p><p>Una serie di programmi bodyweight funzionali al miglioramento di skill specifiche ed al raggiungimento di obiettivi focalizzati<strong>.<br\/><\/strong><\/p>",
+            "size": 100
+          }
+        },
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3": {
           "type": "button",
           "settings": {
@@ -38,6 +45,7 @@
       "block_order": [
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-0",
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-1",
+        "7bba95bf-7aff-46ce-bcdd-aba0d94e75c9",
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3"
       ],
       "settings": {
