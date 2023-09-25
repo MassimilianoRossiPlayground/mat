@@ -19,6 +19,13 @@
             "highlight_color": "#d43747"
           }
         },
+        "42ab2cf4-45ab-47ad-9399-2fd61603af12": {
+          "type": "text",
+          "settings": {
+            "text": "<p>SCEGLI IL PROGRAMMA più indicato a supportarti <br\/>nelle tue performance nelle ARTI MARZIALI.<\/p><p>Programmi specifici per incrementare le performance nelle <br\/>diverse discipline del mondo delle Martial Arts.<\/p>",
+            "size": 100
+          }
+        },
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3": {
           "type": "button",
           "settings": {
@@ -38,6 +45,7 @@
       "block_order": [
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-0",
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-1",
+        "42ab2cf4-45ab-47ad-9399-2fd61603af12",
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3"
       ],
       "settings": {

@@ -19,6 +19,13 @@
             "highlight_color": "#d43747"
           }
         },
+        "cf7ecac5-5a5b-4eb2-88e4-6b9fb0db4777": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Una serie di programmi di allenamento specifici ad incrementare la forza e migliorare il tono muscolare complessivo o di specifiche aree del corpo.<br\/><\/p>",
+            "size": 100
+          }
+        },
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3": {
           "type": "button",
           "settings": {
@@ -33,20 +40,13 @@
             "button_2_style": "btn--solid",
             "button_2_size": "btn--small"
           }
-        },
-        "cf7ecac5-5a5b-4eb2-88e4-6b9fb0db4777": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Scegli il PROGRAMMA di Forza più indicato per te.<br\/><\/p><p>Una serie di programmi di allenamento specifici ad incrementare la forza e migliorare il tono muscolare<br\/>complessivo o di specifiche aree del corpo.<br\/><\/p>",
-            "size": 100
-          }
         }
       },
       "block_order": [
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-0",
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-1",
-        "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3",
-        "cf7ecac5-5a5b-4eb2-88e4-6b9fb0db4777"
+        "cf7ecac5-5a5b-4eb2-88e4-6b9fb0db4777",
+        "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3"
       ],
       "settings": {
         "height": "full-height",
