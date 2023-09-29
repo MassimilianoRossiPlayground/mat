@@ -215,7 +215,7 @@
           data-aos-delay="{{ animation_delay }}"
           {%- assign animation_delay = animation_delay | plus: 150 -%}
         {% endif %}>
-        <a href="{{ button_link }}" class="btn {{ button_style }} {{ button_size }} {{ button_color }}" aria-label="{{ button_text }}">{{ button_text }}</a>
+        <a href="{{ button_link }}" {% if section.settings.button_link_blank %} target="_blank" {% endif %} class="btn {{ button_style }} {{ button_size }} {{ button_color }}" aria-label="{{ button_text }}">{{ button_text }}</a>
       </div>
     </div>
   {%- endif -%}
