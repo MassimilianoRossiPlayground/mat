@@ -26,31 +26,31 @@
     {%- endif -%}
 
     {%- if settings.social_snapchat_link != blank -%}
-      <a class="social-sharing-icon snapchat" rel="noopener" href = "{{ settings.social_snapchat_link }}" title="{{ 'footer.socials.title' | t: social: 'Snapchat', shop_name: shop.name }}">
+      <a class="social-sharing-icon snapchat" rel="noopener" target="_blank" href = "{{ settings.social_snapchat_link }}" title="{{ 'footer.socials.title' | t: social: 'Snapchat', shop_name: shop.name }}">
         {%- render 'icon-snapchat' -%}
       </a>
     {%- endif -%}
 
     {%- if settings.social_pinterest_link != blank -%}
-      <a class="social-sharing-icon pinterest" rel="noopener" href = "{{ settings.social_pinterest_link }}" title="{{ 'footer.socials.title' | t: social: 'Pinterest', shop_name: shop.name }}">
+      <a class="social-sharing-icon pinterest" rel="noopener" target="_blank" href = "{{ settings.social_pinterest_link }}" title="{{ 'footer.socials.title' | t: social: 'Pinterest', shop_name: shop.name }}">
         {%- render 'icon-pinterest' -%}
       </a>
     {%- endif -%}
 
     {%- if settings.social_tumblr_link != blank -%}
-    <a class="social-sharing-icon tumblr" rel="noopener" href = "{{ settings.social_tumblr_link }}" title="{{ 'footer.socials.title' | t: social: 'Tumblr', shop_name: shop.name }}">
+    <a class="social-sharing-icon tumblr" rel="noopener" target="_blank" href = "{{ settings.social_tumblr_link }}" title="{{ 'footer.socials.title' | t: social: 'Tumblr', shop_name: shop.name }}">
       {%- render 'icon-tumblr' -%}
     </a>
     {%- endif -%}
 
     {%- if settings.social_youtube_link != blank -%}
-      <a class="social-sharing-icon youtube" rel="noopener" href = "{{ settings.social_youtube_link }}" title="{{ 'footer.socials.title' | t: social: 'Youtube', shop_name: shop.name }}">
+      <a class="social-sharing-icon youtube" rel="noopener" target="_blank" href = "{{ settings.social_youtube_link }}" title="{{ 'footer.socials.title' | t: social: 'Youtube', shop_name: shop.name }}">
         {%- render 'icon-youtube' -%}
       </a>
     {%- endif -%}
 
     {%- if settings.social_rss_link != blank -%}
-      <a class="social-sharing-icon rss" rel="noopener" href = "{{ settings.social_rss_link }}" title="{{ 'footer.socials.rss' | t }}">
+      <a class="social-sharing-icon rss" rel="noopener" target="_blank" href = "{{ settings.social_rss_link }}" title="{{ 'footer.socials.rss' | t }}">
         {%- render 'icon-rss-feed' -%}
       </a>
     {%- endif -%}
