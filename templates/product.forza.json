@@ -19,6 +19,13 @@
             "highlight_color": "#d43747"
           }
         },
+        "cf7ecac5-5a5b-4eb2-88e4-6b9fb0db4777": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Una serie di programmi di allenamento specifici ad incrementare la forza e migliorare il tono muscolare complessivo o di specifiche aree del corpo.<br\/><\/p>",
+            "size": 100
+          }
+        },
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3": {
           "type": "button",
           "settings": {
@@ -38,12 +45,14 @@
       "block_order": [
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-0",
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-1",
+        "cf7ecac5-5a5b-4eb2-88e4-6b9fb0db4777",
         "template--19946930962728__0c8748de-69c5-48bf-92a1-6a856f9579de-1689600741791195b0-3"
       ],
       "settings": {
         "height": "full-height",
         "enable_mobile_height": false,
         "mobile_height": "four-fifty-height-mobile",
+        "image": "shopify:\/\/shop_images\/0018.jpg",
         "overlay_opacity": 50,
         "enable_zoom_animation": true,
         "text_width": "normal",
@@ -208,7 +217,7 @@
             "text_position": "center",
             "subheading": "",
             "title": "BRACCIA PIU’ GROSSE",
-            "text": "Ti piacerebbe riempire di più quelle camicie? Inserisci questi allenamenti nella tua programmazionesettimanale se vuoi finalmente avere \"braccia come cannoni”.Consiglio: integra una o più sessioni a complemento del tuo daily workout. Lascia 1-2 giorni tra una sessione e l’altra.",
+            "text": "Ti piacerebbe riempire di più quelle camicie? Inserisci questi allenamenti nella tua programmazione settimanale se vuoi finalmente avere \"braccia come cannoni”.Consiglio: integra una o più sessioni a complemento del tuo daily workout. Lascia 1-2 giorni tra una sessione e l’altra.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -225,7 +234,7 @@
             "text_position": "center",
             "subheading": "",
             "title": "SUPER GLUTEI",
-            "text": "22 sessioni concepite per tonificare tutto il corpo, con attenzione particolare a gambe e glutei. Esercizisemplici da fare in palestra, a casa oppure in viaggio, con o senza attrezzatura.",
+            "text": "22 sessioni concepite per tonificare tutto il corpo, con attenzione particolare a gambe e glutei. Esercizi semplici da fare in palestra, a casa oppure in viaggio, con o senza attrezzatura.",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",

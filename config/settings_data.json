@@ -73,15 +73,16 @@
     "color_swatches_product_style": "rectangle",
     "enable_infinity_scroll": false,
     "show_browse_categories_menu": false,
-    "social_instagram_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/matmorethanfitness\/",
     "social_tiktok_link": "",
-    "social_facebook_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/MATmorethanfitness",
     "social_twitter_link": "",
     "social_pinterest_link": "",
+    "social_youtube_link": "https:\/\/www.youtube.com\/@matmorethanfitness",
     "loading_image_width": 150,
     "loading_appearance": "once",
     "currency_code_enable": false,
-    "favicon": "shopify:\/\/shop_images\/Logo_03846ea9-4fd0-49bd-bb15-22d7942a2194.png",
+    "favicon": "shopify:\/\/shop_images\/mat-logo-footer-red_2x_0dc3f4eb-0693-4cd1-b019-8e6ecd0a8643.png",
     "checkout_header_image": "",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
@@ -600,7 +601,8 @@
       "html.js.no-touch.is-loaded {padding-bottom: 0 !important;}",
       "h2.section__heading.h2.aos-init.aos-animate {text-align: center; margin-bottom: 50px;}",
       ".column__item__content.aos-init.aos-animate .column__item__text {margin-top: 20px;}",
-      ".image-with-text__wrapper .background-size-cover.image-with-text__image-bg.aos-init.lazyloaded.aos-animate {background-position: top center !important;}"
+      ".image-with-text__wrapper .background-size-cover.image-with-text__image-bg.aos-init.lazyloaded.aos-animate {background-position: top center !important;}",
+      ".social-sharing-icon .icon {fill: #c70305;}"
     ]
   }
 }
