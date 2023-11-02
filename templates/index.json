@@ -283,7 +283,7 @@
         "template--18960249684264__71b33943-f4f8-4191-8e31-c68544d1f02e-1686669012c70e5a5d-0": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mat-icona-1_2x_c693fa56-0d95-4bed-ad0f-d35c8986d75a.png",
+            "image": "shopify:\/\/shop_images\/01.png",
             "title": "1.\tREGISTRATI E SCEGLI IL TUOPROGRAMMA",
             "text": "<p>Iscriviti a MAT e sceglie il programma che meglio si adatta alle tue esigenze di vita.<\/p>",
             "button_text": "Learn More",
@@ -298,7 +298,7 @@
         "5f8845cd-9019-4a3f-980a-e0851213acde": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mat-icona-2_2x_e0f89e50-ee58-4edd-96b6-791a606196e2.png",
+            "image": "shopify:\/\/shop_images\/02.png",
             "title": "2. COSTRUISCI LA REGOLARITA’",
             "text": "<p>C’è solo una cosa più difficile dell’iniziare ad allenarti, continuare a farlo in modo costante nel tempo. Noi vogliamo aiutarti a farlo.<\/p>",
             "button_text": "Learn More",
@@ -313,7 +313,7 @@
         "c204c6fe-e6bc-48e0-9600-4db149f632f6": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mat-icona-3_2x_ea4f87f2-0b64-4765-a678-5138cf0510c9.png",
+            "image": "shopify:\/\/shop_images\/03.png",
             "title": "3.\tVIVI LA TUA ESPERIENZA DI FITNESS",
             "text": "<p>Trova l’equilibrio e diventa padrone del tuo benessere. Adattiamo il tuo fitness alle tue abitudini.<\/p>",
             "button_text": "Learn More",
@@ -328,7 +328,7 @@
         "59f410d6-958a-41c4-a6ad-1fa5376c3767": {
           "type": "text_block",
           "settings": {
-            "image": "shopify:\/\/shop_images\/mat-icona-4_2x_a5f4ec70-a918-4de3-b4d1-8ec382acefb0.png",
+            "image": "shopify:\/\/shop_images\/04.png",
             "title": "4. CONDIVIDI E MONITORA",
             "text": "<p>Condividi il tuo percorso con persone come te e controlla periodicamente i tuoi risultati.<\/p>",
             "button_text": "Learn More",
