@@ -96,6 +96,14 @@
             ],
             "padding_bottom": 20
           }
+        },
+        "c9c72704-eeb3-4f01-8d2c-d56280bf7eec": {
+          "type": "text",
+          "settings": {
+            "title": "<h6><em>Per la fruizione del programma, l’iscritto deve dichiarare e garantire di essere in possesso del certificato di idoneità fisica in corso di validità<\/em><\/h6>",
+            "text_alignment": "left",
+            "padding_bottom": 20
+          }
         }
       },
       "block_order": [
@@ -106,7 +114,8 @@
         "7ddd2db6-1d92-43ee-a7d9-e786662f9ced",
         "product_accordions",
         "a42f4e7d-6a8d-42a4-80af-29ec3b3b52d9",
-        "upsell"
+        "upsell",
+        "c9c72704-eeb3-4f01-8d2c-d56280bf7eec"
       ],
       "settings": {
         "product_sticky_enable": true,
