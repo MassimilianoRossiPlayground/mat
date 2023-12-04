@@ -100,7 +100,7 @@
         "c9c72704-eeb3-4f01-8d2c-d56280bf7eec": {
           "type": "text",
           "settings": {
-            "title": "<h6><em>Per la fruizione del programma, l’iscritto deve dichiarare e garantire di essere in possesso del certificato di idoneità fisica in corso di validità<\/em><\/h6>",
+            "title": "<h6><em>Per la fruizione del programma, l’iscritto deve dichiarare e garantire di essere in possesso del certificato di idoneità fisica in corso di validità.<\/em><\/h6>",
             "text_alignment": "left",
             "padding_bottom": 20
           }
