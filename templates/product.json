@@ -102,7 +102,7 @@
           "settings": {
             "title": "<h6><em>Per la fruizione del programma, l’iscritto deve dichiarare e garantire di essere in possesso del certificato di idoneità fisica in corso di validità.<\/em><\/h6>",
             "text_alignment": "left",
-            "padding_bottom": 20
+            "padding_bottom": 0
           }
         }
       },
