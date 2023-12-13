@@ -603,7 +603,8 @@
       ".column__item__content.aos-init.aos-animate .column__item__text {margin-top: 20px;}",
       ".image-with-text__wrapper .background-size-cover.image-with-text__image-bg.aos-init.lazyloaded.aos-animate {background-position: top center !important;}",
       ".social-sharing-icon .icon {fill: #c70305;}",
-      "table.cf1M40.cf2OTb.table-sm {color: #fff;}"
+      "table.cf1M40.cf2OTb.table-sm {color: #fff;}",
+      ".cf2OTb td, .cf2OTb th {border: 1px solid #ffffff;}"
     ]
   }
 }
