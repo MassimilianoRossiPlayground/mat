@@ -602,7 +602,8 @@
       "h2.section__heading.h2.aos-init.aos-animate {text-align: center; margin-bottom: 50px;}",
       ".column__item__content.aos-init.aos-animate .column__item__text {margin-top: 20px;}",
       ".image-with-text__wrapper .background-size-cover.image-with-text__image-bg.aos-init.lazyloaded.aos-animate {background-position: top center !important;}",
-      ".social-sharing-icon .icon {fill: #c70305;}"
+      ".social-sharing-icon .icon {fill: #c70305;}",
+      "table.cf1M40.cf2OTb.table-sm {color: #fff;}"
     ]
   }
 }
