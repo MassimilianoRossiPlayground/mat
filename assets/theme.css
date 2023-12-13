@@ -9681,9 +9681,8 @@ body:has(.site-header[data-transparent=true]):has(.main-content > .supports-tran
 .footer-copyright__link {
   margin-left: 10px;
 }
-.footer-copyright--text p {
+.footer-copyright--text {
   text-align: center;
-  font-size: 12px;
 }
 
 .payment-icon-list {

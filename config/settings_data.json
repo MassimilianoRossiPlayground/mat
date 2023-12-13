@@ -605,7 +605,8 @@
       ".social-sharing-icon .icon {fill: #c70305;}",
       "table.cf1M40.cf2OTb.table-sm {color: #fff;}",
       ".cf2OTb td,.cf2OTb th {border: 1px solid #ffffff;}",
-      ".cf2OTb tr {border-top: 1px solid; border-right: 1px solid;}"
+      ".cf2OTb tr {border-top: 1px solid; border-right: 1px solid;}",
+      "@media screen and (max-width: 768px) {.social-sharing-wrapper {justify-content: center; }}"
     ]
   }
 }
