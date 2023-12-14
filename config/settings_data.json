@@ -49,7 +49,7 @@
     "cart_type": "drawer",
     "cart_icon": "bag",
     "enable_cart_notes": true,
-    "enable_gift_notes": true,
+    "enable_gift_notes": false,
     "show_empty_cart_buttons": true,
     "empty_cart_buttons": "search-menu",
     "show_free_shipping_message": false,
