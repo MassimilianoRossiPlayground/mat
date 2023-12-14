@@ -167,7 +167,7 @@
       "discount_label": "Risparmi {{ amount }} con {{ title }}",
       "subtotal": "Subtotale",
       "subtotal_items": "Articoli",
-      "shipping_at_checkout": "Spedizione e tasse calcolate al pagamento",
+      "shipping_at_checkout": "Tasse calcolate al pagamento",
       "customer_note": "Istruzioni speciali per il venditore",
       "cart_notes_label": "Aggiungi note dell'ordine",
       "gift_notes_label": "Che cos'è un regalo?",
