@@ -610,6 +610,7 @@
       ".cf2OTb td,.cf2OTb th {border: 1px solid #ffffff;}",
       ".cf2OTb tr {border-top: 1px solid; border-right: 1px solid;}",
       ".cookiefirst-cookie-declaration button {border: 1px solid; margin: 20px; padding: 10px;}",
+      ".password-page__socials {display: none;}",
       "@media screen and (max-width: 768px) {.social-sharing-wrapper {justify-content: center; }}"
     ]
   }
