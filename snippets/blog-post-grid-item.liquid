@@ -35,7 +35,7 @@
   unless onboarding
     assign article_title = article.title | strip_html
     assign author = 'blogs.article.by_author' | t: author: article.author
-    assign published_at = article.published_at | date: format: 'day_month_year'
+    assign published_at = article.published_at | date: format: 'month_day_year'
     assign datetime = article.published_at | date: '%d-%m-%Y'
     assign comments_count = 'blogs.comments.comments_with_count' | t: count: article.comments_count
     capture article_excerpt
@@ -45,7 +45,7 @@
     assign article_title = 'blogs.article.onboarding.title' | t
     assign author_name = 'blogs.article.onboarding.author' | t
     assign author = 'blogs.article.by_author' | t: author: author_name
-    assign published_at = 'now' | date: format: 'day_month_year'
+    assign published_at = 'now' | date: format: 'month_day_year'
     assign datetime = 'now' | date: '%d-%m-%Y'
     assign comments_count = 'blogs.comments.comments_with_count' | t: count: 0
     assign article_excerpt = 'blogs.article.onboarding.excerpt' | t

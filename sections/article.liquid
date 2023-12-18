@@ -46,7 +46,7 @@
               {%- assign animation_delay = animation_delay | plus: 150 -%}
             {% endif %}>
             {%- capture author -%}{{ article.author }}{%- endcapture -%}
-            {%- capture date -%}<time datetime="{{ article.published_at | date: '%d-%m-%Y' }}">{{ article.published_at | date: format: 'day_month_year' }}</time>{%- endcapture -%}
+            {%- capture date -%}<time datetime="{{ article.published_at | date: '%Y-%m-%d' }}">{{ article.published_at | date: format: 'month_day_year' }}</time>{%- endcapture -%}
 
             {%- if section.settings.show_author -%}
               {%- if article.metafields.custom.autore != blank -%}
