@@ -1,1 +1,39 @@
-{"sections":{"main":{"type":"article","settings":{"show_date":true,"show_author":false,"show_tags":true,"show_share_button":true,"text":"Condividi","bg_color_secondary":false,"padding_top":60,"padding_bottom":60}},"recommended-posts":{"type":"section-recommended-posts","settings":{"posts_type":"related","title":"Altri articoli","default_color":"accent","blog_style":"photo","image_aspect_ratio":1.1,"show_rss_icon":false,"show_date":true,"show_author":false,"show_tags":true,"show_comments_count":false,"bg_color_secondary":false,"padding_top":60,"padding_bottom":60}}},"order":["main","recommended-posts"]}
+{
+  "sections": {
+    "main": {
+      "type": "article",
+      "settings": {
+        "show_date": true,
+        "show_author": true,
+        "show_tags": true,
+        "show_share_button": true,
+        "text": "Condividi",
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "recommended-posts": {
+      "type": "section-recommended-posts",
+      "settings": {
+        "posts_type": "related",
+        "title": "Altri articoli",
+        "default_color": "accent",
+        "blog_style": "photo",
+        "image_aspect_ratio": 1.1,
+        "show_rss_icon": false,
+        "show_date": true,
+        "show_author": false,
+        "show_tags": true,
+        "show_comments_count": false,
+        "bg_color_secondary": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "recommended-posts"
+  ]
+}
