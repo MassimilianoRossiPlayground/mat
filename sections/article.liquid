@@ -49,7 +49,11 @@
             {%- capture date -%}<time datetime="{{ article.published_at | date: '%Y-%m-%d' }}">{{ article.published_at | date: format: 'month_day_year' }}</time>{%- endcapture -%}
 
             {%- if section.settings.show_author -%}
-              <small class="light-gray">{{ 'blogs.article.by_author' | t: author: author }}</small>
+              {%- if article.metafields.custom.autore != blank -%}
+                <small class="light-gray">{{ 'blogs.article.by_author' | t: author: article.metafields.custom.autore }}</small>
+              {%- else -%}
+                <small class="light-gray">{{ 'blogs.article.by_author' | t: author: author }}</small>
+              {%- endif -%}
             {%- endif -%}
             {%- if section.settings.show_date -%}
               <small class="light-gray">{{ date }}</small>
