@@ -109,7 +109,11 @@
         {%- capture date -%}<time datetime="{{ datetime }}">{{ published_at }}</time>{%- endcapture -%}
 
         {%- if show_author -%}
-          <small>{{ author }}</small>
+          {%- if article.metafields.custom.autore != blank -%}
+            <small>{{ article.metafields.custom.autore }}</small>
+          {%- else -%}
+            <small>{{ author }}</small>
+          {%- endif -%}
         {%- endif -%}
 
         {%- if show_date -%}
