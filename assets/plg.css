@@ -32,3 +32,29 @@ input#searchInput-desktop {
         font-size: 50px;
     }
 }
+
+.product__subs__plans {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+label.product__subs__option {
+  color: #fff;
+  background-color: #000;
+  border: 1px solid #000;
+  border-radius: 20px;
+  max-width: fit-content;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px !important;
+}
+.product__subs__option input[type=radio],
+.product__subs__option input[type="radio"]:before,
+.product__subs__option input[type="radio"]:checked:before {
+  display: none;
+}
+label.product__subs__option:has(> input[type="radio"]:checked) {
+  background: #fff !important;
+  color: #000 !important;
+  border: 1px solid #fff;
+}

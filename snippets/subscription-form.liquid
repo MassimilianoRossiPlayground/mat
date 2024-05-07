@@ -9,7 +9,7 @@
       <input type="hidden" name="selling_plan" value="{{ product.selected_selling_plan.id }}" />
     {% endcomment %}
     <legend class="visually-hidden">{{ 'products.product.subscription' | t }}</legend>
-
+{% comment %}
     {% unless product.requires_selling_plan %}
       <div class="product__subs__group">
         <label class="product__subs__option">
@@ -26,9 +26,11 @@
         </label>
       </div>
     {% endunless %}
-
+{% endcomment %}
     {% for selling_plan_group in product.selling_plan_groups %}
       <div class="product__subs__group">
+        
+        {% comment %}
         <label class="product__subs__option">
           <input type="radio"
             data-toggles-group
@@ -39,8 +41,9 @@
             {% endif %}/>
           <span>{{ selling_plan_group.name }}</span>
         </label>
+        {% endcomment %}
 
-        <div class="product__subs__plans{% unless selling_plan_group.selling_plan_selected %} hidden{% endunless %}" data-group-toggle="{{ selling_plan_group.id }}">
+        <div class="product__subs__plans" data-group-toggle="{{ selling_plan_group.id }}">
           {% for plan in selling_plan_group.selling_plans %}
             <label class="product__subs__option">
               <input type="radio"
@@ -49,7 +52,7 @@
                 {% if plan.selected %}
                   checked
                 {% endif %}/>
-              <span>{{ plan.name }}</span>
+              <span>{{ plan.name | split: ", €" | first | replace: "Consegna ogni mese", "Mensile" | replace: "Consegna ogni 3 mesi", "Trimestrale" | replace: "Consegna ogni 6 mesi", "Semestrale" | replace: "Consegna ogni anno", "Annuale" }}</span>
             </label>
           {% endfor %}
         </div>
