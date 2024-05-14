@@ -567,5 +567,12 @@
     "previous": "Indietro",
     "next": "Avanti",
     "scroll_down": "Scorri verso il basso"
+  },
+  "shopify": {
+    "notices": {
+      "cart": {
+        "variant_requires_selling_plan": "Selezionare un'opzione di abbonamento."
+      }
+    }
   }
 }
