@@ -1,0 +1,217 @@
+{
+  "article": [],
+  "blog": [],
+  "brand": [],
+  "collection": [
+    {
+      "key": "primary_collection",
+      "namespace": "custom",
+      "name": "Primary collection",
+      "description": "",
+      "type": {
+        "name": "collection_reference",
+        "category": "REFERENCE"
+      }
+    }
+  ],
+  "company": [],
+  "company_location": [],
+  "location": [],
+  "market": [],
+  "order": [],
+  "page": [],
+  "product": [
+    {
+      "key": "queries",
+      "namespace": "shopify--discovery--product_search_boost",
+      "name": "Potenziamenti ricerca prodotto",
+      "description": "Elenco di query di ricerca per le quali un prodotto si classifica più in alto nei risultati di ricerca",
+      "type": {
+        "name": "list.single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "related_products",
+      "namespace": "shopify--discovery--product_recommendation",
+      "name": "Prodotti simili",
+      "description": "Elenco di prodotti simili",
+      "type": {
+        "name": "list.product_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "related_products_display",
+      "namespace": "shopify--discovery--product_recommendation",
+      "name": "Impostazioni prodotti simili",
+      "description": "Determina il modo in cui i prodotti simili vengono visualizzati tra le raccomandazioni sui prodotti generate dall'algoritmo",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "complementary_products",
+      "namespace": "shopify--discovery--product_recommendation",
+      "name": "Prodotti complementari",
+      "description": "Elenco dei prodotti complementari",
+      "type": {
+        "name": "list.product_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "descrizione_prodotto",
+      "namespace": "custom",
+      "name": "Descrizione prodotto",
+      "description": "",
+      "type": {
+        "name": "rich_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "dettagli_tecnici_e_lavaggi",
+      "namespace": "custom",
+      "name": "Dettagli tecnici e lavaggi",
+      "description": "",
+      "type": {
+        "name": "rich_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "spedizione_resi_e_cambi",
+      "namespace": "custom",
+      "name": "Spedizione resi e cambi",
+      "description": "",
+      "type": {
+        "name": "rich_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "completa_il_look",
+      "namespace": "custom",
+      "name": "Completa il look",
+      "description": "",
+      "type": {
+        "name": "list.product_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "materiali_immagine_colori",
+      "namespace": "custom",
+      "name": "Materiali - Immagine Colori",
+      "description": "",
+      "type": {
+        "name": "file_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "materiali_immagine_banner",
+      "namespace": "custom",
+      "name": "Materiali - Immagine Banner",
+      "description": "",
+      "type": {
+        "name": "file_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "materiali_titolo",
+      "namespace": "custom",
+      "name": "Materiali - Titolo",
+      "description": "",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "materiali_descrizione",
+      "namespace": "custom",
+      "name": "Materiali - Descrizione",
+      "description": "",
+      "type": {
+        "name": "multi_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "materiali_url",
+      "namespace": "custom",
+      "name": "Materiali - Url",
+      "description": "",
+      "type": {
+        "name": "url",
+        "category": "URL"
+      }
+    },
+    {
+      "key": "size_chart_html",
+      "namespace": "custom",
+      "name": "Size Chart - HTML",
+      "description": "",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "sleeve-length-type",
+      "namespace": "shopify",
+      "name": "Tipo di lunghezza della manica",
+      "description": "Specifies the style of sleeves on clothing items, such as short or sleeveless",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "age-group",
+      "namespace": "shopify",
+      "name": "Età",
+      "description": "Defines the target age range for a product, such as adults or kids",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "target-gender",
+      "namespace": "shopify",
+      "name": "Genere di destinazione",
+      "description": "Identifies the intended gender for a product, such as female, male or unisex",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "fabric",
+      "namespace": "shopify",
+      "name": "Tessuto",
+      "description": "Identifies the type of fabric used in a product, for example, cotton or denim",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    },
+    {
+      "key": "dress-style",
+      "namespace": "shopify",
+      "name": "Stile del vestito",
+      "description": "Identifies the design of a dress, such as wrap or empire waist",
+      "type": {
+        "name": "list.metaobject_reference",
+        "category": "REFERENCE"
+      }
+    }
+  ],
+  "variant": [],
+  "shop": []
+}
